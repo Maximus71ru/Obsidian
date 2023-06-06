@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b4feed88582e7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Файл для теста. Удалить.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Вконтакте",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7f45b70c9c16dfdc",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Обложка для web версии.md",
+                "file": "Файл для теста. Удалить.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обложка для web версии.md",
+                "file": "Файл для теста. Удалить.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Обложка для web версии.md"
+                "file": "Файл для теста. Удалить.md"
               }
             }
           },
@@ -193,13 +207,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "b39ba07d58d8f6d3",
+  "active": "7b4feed88582e7b2",
   "lastOpenFiles": [
-    "Оформление группы.md",
+    "Файл для теста. Удалить.md",
     "Обложка для web версии.md",
-    "В контакте.md",
-    "База знаний/020_БИЗНЕС.md",
+    "Оформление группы.md",
+    "База знаний/В контакте.md",
     "База знаний/000_Меню.md",
+    "База знаний/020_БИЗНЕС.md",
     "База знаний/Ссылки в Obsidian.md",
     "База знаний/010_ФОТО.md",
     "База знаний/Петер Линдберг.md",
@@ -221,7 +236,6 @@
     "База знаний/Сценарий слайд шоу для дизайнеров.md",
     "База знаний/Сценарий Дизайнера интерьеров.md",
     "База знаний/Страхи и опасения начинающих фотографов.md",
-    "База знаний/Сощдание истории в слайд шоу дизайнера.md",
     "Без названия 1.canvas",
     "Холст_План видео.canvas",
     "Холст Схемы видео сценариев.canvas",
