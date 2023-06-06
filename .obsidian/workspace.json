@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "2d810f349b45ebd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6de59c967543f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b39ba07d58d8f6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обложка для web версии.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9564f9174b50d6db",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0011cee25f483c5",
+        "type": "tabs",
+        "dimension": 69,
+        "children": [
+          {
+            "id": "c794e5dae53857c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b42863a01da0357e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Вконтакте",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6283808ec6deedba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2182fdadb8010c78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7f45b70c9c16dfdc",
+        "type": "tabs",
+        "dimension": 31,
+        "children": [
+          {
+            "id": "54fbcd9c802cd3de",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "56c6c9f7b3bfb530",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2812d4dd776d11e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d2c91ed2e75b23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Обложка для web версии.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e1502c8314998817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Обложка для web версии.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7523c32d3a2068a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2569dc8c8818de65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Обложка для web версии.md"
+              }
+            }
+          },
+          {
+            "id": "89c7e6b05a599909",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "75193b2f50a866ed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "workspaces:Пространства": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "b39ba07d58d8f6d3",
+  "lastOpenFiles": [
+    "Оформление группы.md",
+    "Обложка для web версии.md",
+    "В контакте.md",
+    "База знаний/020_БИЗНЕС.md",
+    "База знаний/000_Меню.md",
+    "База знаний/Ссылки в Obsidian.md",
+    "База знаний/010_ФОТО.md",
+    "База знаний/Петер Линдберг.md",
+    "База знаний/011_Фотографы.md",
+    "База знаний/Огурцы.md",
+    "База знаний/Элементы указывающие на что-либо.md",
+    "База знаний/Что теряет тот, кто не умеет фотографировать.md",
+    "База знаний/Что самое трудное для начинающих фотографов.md",
+    "База знаний/Что дает умение хорошо фотографировать.md",
+    "База знаний/Центры внимания.md",
+    "База знаний/Холст промт.canvas",
+    "База знаний/Упражнения для фотографов.md",
+    "База знаний/Упражнения для фотогорафов.md",
+    "База знаний/Упражения на креативность.md",
+    "База знаний/ТЗ для искусственного интеллекта.md",
+    "База знаний/Темы постов для начинающих фотографов.md",
+    "База знаний/Текст в слайд шоу.md",
+    "База знаний/Сценарий слайд шоу фотографа интерьеров.md",
+    "База знаний/Сценарий слайд шоу для дизайнеров.md",
+    "База знаний/Сценарий Дизайнера интерьеров.md",
+    "База знаний/Страхи и опасения начинающих фотографов.md",
+    "База знаний/Сощдание истории в слайд шоу дизайнера.md",
+    "Без названия 1.canvas",
+    "Холст_План видео.canvas",
+    "Холст Схемы видео сценариев.canvas",
+    "Холст_Welcome Chain + Product grid.canvas",
+    "Холст Этапы воронки продаж.canvas",
+    "Тестовый холст.canvas",
+    "Без названия.canvas"
+  ]
+}
