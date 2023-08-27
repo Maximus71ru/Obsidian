@@ -199,44 +199,6 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "5169e4fb2be24e71",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0dd74cdc50526fec",
-        "type": "window",
-        "children": [
-          {
-            "id": "0cb9efe55d9a73e2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "31b7a9a80b286d35",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Аватар ЦА дизайнеры и художники.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 570,
-        "y": 5,
-        "width": 1580,
-        "height": 1374,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2643c581d680cd16",
   "lastOpenFiles": [
     "Аватар ЦА блогеры.md",
