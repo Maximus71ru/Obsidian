@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аватар ЦА дизайнеры и художники.md",
+                "file": "Аватар ЦА активные люди.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "бренд",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Аватар ЦА дизайнеры и художники.md",
+                "file": "Аватар ЦА активные люди.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аватар ЦА дизайнеры и художники.md",
+                "file": "Аватар ЦА активные люди.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Аватар ЦА дизайнеры и художники.md"
+                "file": "Аватар ЦА активные люди.md"
               }
             }
           },
@@ -199,14 +199,54 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2643c581d680cd16",
+  "floating": {
+    "id": "1003cda889094fd8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7a8a0a2aed9b5423",
+        "type": "window",
+        "children": [
+          {
+            "id": "b6feff9e8a55fc55",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7606a9f727f3e33b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Аватар ЦА активные люди.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1253,
+        "y": 2,
+        "width": 1303,
+        "height": 1399,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7606a9f727f3e33b",
   "lastOpenFiles": [
     "Аватар ЦА блогеры.md",
+    "Аватар ЦА активные люди.md",
     "Аватар ЦА дизайнеры и художники.md",
+    "Сегменты целевой аудитории онлайн фото школы.md",
     "Запрос на составление портрета целевой аудитории.md",
+    "Настройка Wordpress.md",
     "База знаний/Запросы (Promt) для ChatGPT.md",
     "Сегмент дизайнеры.md",
-    "Сегменты целевой аудитории онлайн фото школы.md",
     "База знаний/Контент маркетинг.md",
     "База знаний/Promt - Целевая аудитория.md",
     "База знаний/Запросы начинающий фотограф.md",
@@ -215,7 +255,6 @@
     "База знаний/Маркетинговая стратегия от ChatGPT.md",
     "База знаний/Контент маркетинг в ChatGPT.md",
     "База знаний/Стратегия контент маркетинга.md",
-    "Настройка Wordpress.md",
     "Как составить портрет целевой аудитории фотошколы.md",
     "База знаний/ЦА - Целевая Аудитория.md",
     "База знаний/Персонажи ЦА.md",
@@ -226,7 +265,6 @@
     "База знаний/Кто чаще всего хочет научиться фотографировать.md",
     "Запуск фото школы.md",
     "Установка сайта на OSPanel.md",
-    "Воронка продаж.md",
     "Схема, переупаковка контента.canvas",
     "Схема контент стратегия.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",

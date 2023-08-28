@@ -1,4 +1,8 @@
 #Wordpress
+Настройка:
+Robot
+.htaccess
+Elementor
 
 ### Изменение параметров Open Server
 - Для изменения параметра "Time Limit"  в файле "wp-config" после строчки - define( 'WP_DEBUG', false ); была сделана запись:  set_time_limit(600);
