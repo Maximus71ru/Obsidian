@@ -199,16 +199,54 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2643c581d680cd16",
+  "floating": {
+    "id": "28c8b562aae17346",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e32cbd1ee6bbb515",
+        "type": "window",
+        "children": [
+          {
+            "id": "0a2bc09857e14df8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "810d6a606db99255",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Аватар ЦА семейная съемка.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1258,
+        "y": 0,
+        "width": 1300,
+        "height": 1399,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "810d6a606db99255",
   "lastOpenFiles": [
     "Сегменты целевой аудитории онлайн фото школы.md",
+    "Запрос на составление портрета целевой аудитории.md",
     "Аватар ЦА семейная съемка.md",
     "Аватар ЦА активные люди.md",
     "Аватар ЦА блогеры.md",
     "Аватар ЦА семейная фотосъемка.md",
     "Семейная фотосъемка.md",
     "Аватар ЦА дизайнеры и художники.md",
-    "Запрос на составление портрета целевой аудитории.md",
     "Настройка Wordpress.md",
     "База знаний/Запросы (Promt) для ChatGPT.md",
     "Сегмент дизайнеры.md",
