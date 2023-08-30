@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Равнодошные к фотографии.md",
+                "file": "Любители социальных сетей.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Равнодошные к фотографии.md",
+                "file": "Любители социальных сетей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Равнодошные к фотографии.md",
+                "file": "Любители социальных сетей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Равнодошные к фотографии.md"
+                "file": "Любители социальных сетей.md"
               }
             }
           },
@@ -185,11 +185,50 @@
       "dbfolder:Create a new database table": false
     }
   },
+  "floating": {
+    "id": "0b395629703a9cf6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "80bb96f161b287a7",
+        "type": "window",
+        "children": [
+          {
+            "id": "45d77042e26dfdc5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8684ec0d27efe7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Любители социальных сетей.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1268,
+        "y": 1,
+        "width": 1292,
+        "height": 1398,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "9436c4e8c0777756",
   "lastOpenFiles": [
     "Сегменты целевой аудитории онлайн фото школы.md",
-    "Не требовательные фотографы.md",
     "Равнодошные к фотографии.md",
+    "Любители социальных сетей.md",
+    "Не требовательные фотографы.md",
     "Запрос на составление портрета целевой аудитории.md",
     "База знаний/Запросы (Promt) для ChatGPT.md",
     "Аватар ЦА блогеры.md",
@@ -212,7 +251,6 @@
     "Как составить портрет целевой аудитории фотошколы.md",
     "База знаний/ЦА - Целевая Аудитория.md",
     "База знаний/Персонажи ЦА.md",
-    "База знаний/Разделение по категориям ЦА фотошколы.md",
     "Схема, переупаковка контента.canvas",
     "Схема контент стратегия.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",
