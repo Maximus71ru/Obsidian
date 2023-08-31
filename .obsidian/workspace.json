@@ -186,19 +186,19 @@
     }
   },
   "floating": {
-    "id": "0b395629703a9cf6",
+    "id": "e9c6a9b8eebee602",
     "type": "floating",
     "children": [
       {
-        "id": "80bb96f161b287a7",
+        "id": "9fda1bd9bfed20a6",
         "type": "window",
         "children": [
           {
-            "id": "45d77042e26dfdc5",
+            "id": "d8098663d8dcc45b",
             "type": "tabs",
             "children": [
               {
-                "id": "f8684ec0d27efe7e",
+                "id": "671c45dc8a3bd417",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -214,20 +214,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 1268,
-        "y": 1,
-        "width": 1292,
-        "height": 1398,
+        "x": 599,
+        "y": 0,
+        "width": 1259,
+        "height": 1402,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "9436c4e8c0777756",
+  "active": "671c45dc8a3bd417",
   "lastOpenFiles": [
+    "Любители социальных сетей.md",
     "Сегменты целевой аудитории онлайн фото школы.md",
     "Равнодошные к фотографии.md",
-    "Любители социальных сетей.md",
     "Не требовательные фотографы.md",
     "Запрос на составление портрета целевой аудитории.md",
     "База знаний/Запросы (Promt) для ChatGPT.md",
