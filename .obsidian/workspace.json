@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Любтители сойиальных сетей ред._1_.md",
+                "file": "Любители социальных сетей.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Целевая_аудитория",
+                "query": "tag:#ChatGPT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Любтители сойиальных сетей ред._1_.md",
+                "file": "Любители социальных сетей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Любтители сойиальных сетей ред._1_.md",
+                "file": "Любители социальных сетей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Любтители сойиальных сетей ред._1_.md"
+                "file": "Любители социальных сетей.md"
               }
             }
           },
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,10 +249,12 @@
       }
     ]
   },
-  "active": "961777087ebc82c4",
+  "active": "f891bc19b18c25fd",
   "lastOpenFiles": [
+    "База знаний/Dan Promt.md",
     "Любители социальных сетей.md",
     "Любтители сойиальных сетей ред._1_.md",
+    "Любители соц. сетей ред_2 отбор важных.md",
     "Сегменты целевой аудитории.md",
     "База знаний/Целевая Аудитория.md",
     "Database Folder/Untitled database.md",
@@ -276,8 +277,6 @@
     "Не требовательные фотографы.md",
     "Запрос на составление портрета целевой аудитории.md",
     "База знаний/Запросы (Promt) для ChatGPT.md",
-    "Начинающие фотографы.md",
-    "Семейная фотосъемка.md",
     "Схема, переупаковка контента.canvas",
     "Схема контент стратегия.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",
