@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc814e43b4a5d97",
+        "id": "82524ac1fc1a0bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "9436c4e8c0777756",
+            "id": "8a32c4500a989f32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Целевая Аудитория.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f891bc19b18c25fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Любители социальных сетей.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "961777087ebc82c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Любители социальных сетей.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ChatGPT",
+                "query": "целевая аудитория",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Любители социальных сетей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Любители социальных сетей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Любители социальных сетей.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,72 +176,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "e9c6a9b8eebee602",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9fda1bd9bfed20a6",
-        "type": "window",
-        "children": [
-          {
-            "id": "d8098663d8dcc45b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "671c45dc8a3bd417",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Любтители сойиальных сетей ред._1_.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1267,
-        "y": 10,
-        "width": 1259,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f891bc19b18c25fd",
+  "active": "8a32c4500a989f32",
   "lastOpenFiles": [
-    "База знаний/Dan Promt.md",
-    "Любители социальных сетей.md",
-    "Любтители сойиальных сетей ред._1_.md",
-    "Любители соц. сетей ред_2 отбор важных.md",
-    "Сегменты целевой аудитории.md",
-    "База знаний/Целевая Аудитория.md",
-    "Database Folder/Untitled database.md",
-    "База знаний/Выбор видеокарты.md",
-    "База знаний/Искусственный интеллект.md",
-    "База знаний/Алгоритм сохренения в GetHub.md",
-    "База знаний/Без названия.md",
-    "База знаний/ТЗ на съемку дома.md",
-    "База знаний/Что от меня, как владельца школы необходимо, чтобы твои ответы были максимально информативными и релевантными.md",
-    "Равнодушные к фотографии.md",
-    "Семейная съемка.md",
+    "База знаний/Шаблон загрузки портрета целевой аудитории для чата CHatGPT.md",
     "Активные люди.md",
     "Дизайнеры и художники.md",
-    "Блогеры.md",
-    "Аватар ЦА семейная фотосъемка.md",
-    "База знаний/Описание целевой аудитории.md",
-    "Как составить портрет целевой аудитории фотошколы.md",
-    "База знаний/Анализ аудиторий.md",
+    "Сегменты целевой аудитории.md",
+    "Сервер.md",
+    "Черновик запросов удалить.md",
+    "База знаний/Исследование целевой аудитории.md",
+    "База знаний/Сегмент - любители социальных сетей.md",
+    "Любители социальных сетей.md",
+    "База знаний/Целевая Аудитория.md",
     "База знаний/Инструменты исследования аудитории.md",
-    "Не требовательные фотографы.md",
-    "Запрос на составление портрета целевой аудитории.md",
-    "База знаний/Запросы (Promt) для ChatGPT.md",
+    "База знаний/Анализ аудиторий.md",
+    "База знаний/Вопросы для интервью.md",
+    "Темы для блога интерьерного фотографа.md",
+    "Сайт интерьерного фотографа.md",
+    "FAQ для сайта.md",
+    "База знаний/Анализ целевой аудитории.md",
+    "ChatGPT для SEO.md",
+    "База знаний/Исследование целевой аудитроии от ChatGPT.md",
+    "База знаний/Анализ рынка.md",
+    "База знаний/Теория Бена Ханта.md",
+    "Фотосъемка интерьера.md",
+    "ChatGPT для создания сайта.md",
+    "Вставка кода на Wordpress.md",
+    "Настройка Wordpress.md",
+    "Любтители сойиальных сетей ред._1_.md",
     "Схема, переупаковка контента.canvas",
     "Схема контент стратегия.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",
