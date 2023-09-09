@@ -1,4 +1,5 @@
 #Wordpress
+[[Настройка сайта на Wordpress]]
 Настройка:
 Robot
 .htaccess
