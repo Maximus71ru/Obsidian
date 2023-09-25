@@ -1,10 +1,13 @@
 #Wordpress
 [[Настройка сайта на Wordpress]]
+[[Техническая настройка сайта blogfoto.ru]]
 Настройка:
 Robot
 .htaccess
 Elementor
 [[Вставка кода на Wordpress|Вставка кода]]
+[[Настройка производительности]]
+
 
 ### Изменение параметров Open Server
 - Для изменения параметра "Time Limit"  в файле "wp-config" после строчки - define( 'WP_DEBUG', false ); была сделана запись:  set_time_limit(600);
