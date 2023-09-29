@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82524ac1fc1a0bfc",
+        "id": "16ce9e2b2ec18332",
         "type": "tabs",
         "children": [
           {
-            "id": "2e6991634c8b7667",
+            "id": "321f01317d2a72ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сбор данных для первой страницы - удалить.md",
+                "file": "Темы для блога интерьерного фотографа.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e1869648072d0642",
+            "id": "00345a134bde7d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HestiaCP.md",
+                "file": "Темы для блога интерьерного фотографа.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,25 +34,20 @@
             }
           },
           {
-            "id": "2c16fb0bbd4ff8bb",
+            "id": "dcb6a982c89a436c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Настройка производительности.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "a9df5c3ceff8554c",
+            "id": "b3a63064a2e9be89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техническая настройка сайта blogfoto.ru.md",
+                "file": "Сайт интерьерного фотографа.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Настройка сайт",
+                "query": "интерьерны",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техническая настройка сайта blogfoto.ru.md",
+                "file": "Сайт интерьерного фотографа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техническая настройка сайта blogfoto.ru.md",
+                "file": "Сайт интерьерного фотографа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техническая настройка сайта blogfoto.ru.md"
+                "file": "Сайт интерьерного фотографа.md"
               }
             }
           },
@@ -235,22 +230,65 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "a9df5c3ceff8554c",
+  "floating": {
+    "id": "2c7915de0d2a9b57",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b79606f0d048dd97",
+        "type": "window",
+        "children": [
+          {
+            "id": "7b467b6b9601d36e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21b814eb7600c15d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Темы для блога интерьерного фотографа.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1615,
+        "y": 46,
+        "width": 870,
+        "height": 1342,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b3a63064a2e9be89",
   "lastOpenFiles": [
+    "Договор интерьерного фотографа.md",
+    "Темы для блога интерьерного фотографа.md",
+    "Сайт интерьерного фотографа.md",
+    "Контент сайта интерьерный фотограф.md",
+    "Блог сайта интерьерного фотографа.md",
+    "Фотосъемка для дизайнера интерьеров.md",
+    "Настройка производительности.md",
+    "HestiaCP.md",
+    "Страница - интерьерная фотосъемка квартир.md",
+    "Интерьерная фотосъемка квартир для портфолио дизайнеров.md",
+    "Сбор данных для первой страницы - удалить.md",
+    "Страница - Интерьерный фотограф.md",
     "Техническая настройка Wordpress.md",
     "Техническая настройка сайта blogfoto.ru.md",
-    "Настройка производительности.md",
     "Настройка плагина All in One WP Security.md",
     "Настройка блога.md",
     "Настройка сайта на Wordpress.md",
-    "Блог сайта интерьерного фотографа.md",
-    "Сайт интерьерного фотографа.md",
-    "Контент сайта интерьерный фотограф.md",
     "Сайт фотошколы.md",
-    "HestiaCP.md",
-    "Страница сайта Интерьерный фотограф.md",
     "Преимущества для отелей.md",
-    "Сбор данных для первой страницы - удалить.md",
     "Преимущества для ресторанов.md",
     "База знаний/Шаблон загрузки портрета целевой аудитории для чата CHatGPT.md",
     "База знаний/Путь клиента.md",
@@ -258,11 +296,6 @@
     "Темы статей для запуска фото школы.md",
     "База знаний/Серия статей для возбуждения интереса к фотографии.md",
     "База знаний/Мы все фотографы.md",
-    "База знаний/Темы постов для начинающих фотографов.md",
-    "База знаний/Описание фотошколы для ChatGPT.md",
-    "База знаний/Почему нужно уметь фотографировать.md",
-    "База знаний/Почему фотографировать нужно учиться.md",
-    "База знаний/Темы для постов и статей.md",
     "Схема, переупаковка контента.canvas",
     "Схема контент стратегия.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",
