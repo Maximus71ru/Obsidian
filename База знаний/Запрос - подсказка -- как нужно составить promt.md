@@ -4,22 +4,6 @@
 Если не удается составить желаемый запрос, можно у чата спросить совет. "Какой нужен запрос, для получения такого-то результата?"
 А в качестве примера можно показать ему уже готовый текст, похожий на желаемый. 
 
-Введите команду и затем просто добавляйте туда ваш Prompt, например
-
-I want you to act like an [your input]
-I will give you [your input]
-You will give me [your input]
-You can [your input]
-You can't [your input]
-Business data: [your input]
-
-Я хочу, чтобы ты вел себя как [ваши данные] 
-Я дам тебе [ваши данные] 
-Ты дашь мне [ваши данные] 
-Ты можешь[ваши данные] 
-Ты не можешь[ваши данные] 
-Бизнес данные: [ваши данные]
-
 ---
 
 Act as a methodologist. I will give you an assignment to develop a system for assessing skills. You will give me a system for assessment and explain why you chose this particular option. Objective: Develop an evaluation system: key skills: Digital marketing is a broad field, and it's important to identify your specific skills and expertise. Consider your experience with digital marketing channels, such as SEO, PPC, social media, email marketing, and content marketing. Identify your strengths and areas where you need improvement.You can use as a final score the Brief, the test, the questions, the rating scale from 1 to 10, the level of expertise from novice to expert. The final result should help me make my own assessment, which I will use in the future in ChatGPT to improve my performance.
