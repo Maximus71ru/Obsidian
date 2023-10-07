@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "59876f0165e2def1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Редактирование запросов.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eb4e22a71952b0db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Страница фотосъемка интерьера.md",
+                "file": "Страница фотосъемка интерьера отелей.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Страница фотосъемка интерьера.md",
+                "file": "Страница фотосъемка интерьера отелей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Страница фотосъемка интерьера.md",
+                "file": "Страница фотосъемка интерьера отелей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Страница фотосъемка интерьера.md"
+                "file": "Страница фотосъемка интерьера отелей.md"
               }
             }
           },
@@ -222,12 +209,51 @@
       "dbfolder:Create a new database table": false
     }
   },
+  "floating": {
+    "id": "c8b6794547c8fa38",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6dedabf13716df8e",
+        "type": "window",
+        "children": [
+          {
+            "id": "c87e663afa1ae4c1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ca88e8d515c921b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Страница фотосъемка интерьера отелей.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1635,
+        "y": 4,
+        "width": 919,
+        "height": 1333,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "eb4e22a71952b0db",
   "lastOpenFiles": [
-    "Стоп слова.md",
-    "Страница фотосъемка интерьера.md",
     "Страницы для сайта интерьерного фотографа.md",
+    "Страница фотосъемка интерьера.md",
+    "Страница фотосъемка интерьера отелей.md",
     "База знаний/Редактирование запросов.md",
+    "Стоп слова.md",
     "Фотосъемка интерьера.md",
     "Сайт интерьерного фотографа.md",
     "Темы для блога интерьерного фотографа.md",
@@ -249,7 +275,6 @@
     "База знаний/Запросы для создания человеческого Текста.md",
     "База знаний/Ограничения.md",
     "Алгоритм подготовки к фотосъемке интерьера.md",
-    "Договор интерьерного фотографа.md",
     "Схема, переупаковка контента.canvas",
     "Схема контент стратегия.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",
