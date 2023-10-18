@@ -34,32 +34,6 @@
             }
           },
           {
-            "id": "a74f46569139f36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сбор материала для макета сайта фото - школы.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3d039e1840d99b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Путь клиента.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1159c6eb89957a02",
             "type": "leaf",
             "state": {
@@ -71,9 +45,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f64f89f2c27d4946",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9a1e6494dec2988",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "73cac240a16a1f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сайт фото - школы страница О нас.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -103,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "офер",
+                "query": "концепция",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Оффер.md",
+                "file": "Сайт фото - школы страница О нас.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Оффер.md",
+                "file": "Сайт фото - школы страница О нас.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Оффер.md"
+                "file": "Сайт фото - школы страница О нас.md"
               }
             }
           },
@@ -247,11 +250,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "1159c6eb89957a02",
+  "active": "73cac240a16a1f99",
   "lastOpenFiles": [
-    "База знаний/000_Меню.md",
+    "Лендинг.md",
+    "Формы подписки и захвата контактов.md",
     "База знаний/Оффер.md",
+    "База знаний/020_БИЗНЕС.md",
+    "Текст.md",
     "База знаний/Автоворонка в месседжерах.md",
+    "Сбор материала для макета сайта фото - школы.md",
+    "База знаний/Путь клиента.md",
+    "База знаний/000_Меню.md",
     "База знаний/Передвижение клиента по воронке.md",
     "База знаний/Прогрев перед продажей.md",
     "База знаний/Анализ целевой аудитории.md",
@@ -259,7 +268,6 @@
     "База знаний/Персонажи ЦА.md",
     "База знаний/Анализ аудиторий.md",
     "База знаний/Анализ конкурентов.md",
-    "База знаний/Путь клиента.md",
     "Воронка продаж.md",
     "База знаний/Воронка в социальных сетях.md",
     "База знаний/Автоворонка.md",
@@ -270,10 +278,6 @@
     "База знаний/Маркетинг в соц. сетях.md",
     "База знаний/Контент.md",
     "База знаний/Виды контента.md",
-    "База знаний/Продуктовая матрица.md",
-    "База знаний/Контент маркетинг.md",
-    "База знаний/Теория Бена Ханта.md",
-    "База знаний/Актуализация проблемы.md",
     "Схема контент стратегия.canvas",
     "Схема, переупаковка контента.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",
