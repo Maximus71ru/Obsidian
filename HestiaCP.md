@@ -27,3 +27,33 @@ Maximus
 - Зайти в домен
 - Выбрать: быстрая установка приложений
 - Выбрать Wordpress - нажать "Настройка"
+
+
+
+Подбор домена:
+Shortshot короткий выстрел
+
+
+слова
+box
+shot - выстрел
+soft - мягкий
+frame рамка
+focus
+
+onebox
+nicebox
+softbox
+strongshot
+
+Свободны:
+goodfocus
+strongshot сильный выстрел
+
+Заняты:
+focusbox
+myfocus
+googfocus
+onebox
+nicebox
+softbox
