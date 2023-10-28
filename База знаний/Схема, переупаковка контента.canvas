@@ -10,7 +10,7 @@
 		{"type":"text","text":"Поисковики","id":"5c65dd746e5fad7b","x":-560,"y":-30,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"Тематические, проф. ресурсы","id":"0010cb60cec66353","x":-560,"y":-230,"width":250,"height":80,"color":"5"},
 		{"type":"text","text":"Вариант переупаковки контента","id":"55283900ec2a9f64","x":-160,"y":-580,"width":320,"height":60,"color":"3"},
-		{"type":"file","file":"Комментарий к схеме переупаковки контента.md","id":"e2b39a5cec39ff9c","x":-1020,"y":-880,"width":640,"height":460}
+		{"type":"file","file":"База знаний/Комментарий к схеме переупаковки контента.md","id":"e2b39a5cec39ff9c","x":-1020,"y":-880,"width":640,"height":460}
 	],
 	"edges":[
 		{"id":"6c0f6b11b83972de","fromNode":"4aea53f0f1e15bcd","fromSide":"right","toNode":"84f9d1626063028f","toSide":"right"},
