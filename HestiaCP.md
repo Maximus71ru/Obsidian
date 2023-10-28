@@ -40,6 +40,7 @@ shot - выстрел
 soft - мягкий
 frame рамка
 focus
+focus point
 
 onebox
 nicebox
