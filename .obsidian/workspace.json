@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Путешествия, туризм, активный образ жизни, хобби.md",
+                "file": "База знаний/Семья, личная жизнь.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сервер",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7f45b70c9c16dfdc",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Путешествия, туризм, активный образ жизни, хобби.md",
+                "file": "База знаний/Семья, личная жизнь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Путешествия, туризм, активный образ жизни, хобби.md",
+                "file": "База знаний/Семья, личная жизнь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Путешествия, туризм, активный образ жизни, хобби.md"
+                "file": "База знаний/Семья, личная жизнь.md"
               }
             }
           },
@@ -226,7 +225,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "База знаний/Путешествия, туризм, активный образ жизни, хобби.md",
+                    "file": "База знаний/Семья, личная жизнь.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -261,9 +260,22 @@
   },
   "active": "56f730092c85a5b4",
   "lastOpenFiles": [
-    "Стили и литературные жанры ChatGpt.md",
-    "База знаний/Путешествия, туризм, активный образ жизни, хобби.md",
+    "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
+    "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
+    "Шаблоны/Фотографы.md.terabox.uploading.cfg",
+    "Шаблоны/Теги бизнес.md.terabox.uploading.cfg",
+    "Шаблоны/План написания статей.md.terabox.uploading.cfg",
+    "Шаблоны/Заметка с линиями.md.terabox.uploading.cfg",
+    "Стили текста ChatGPT.md.terabox.uploading.cfg",
+    "Стили и литературные жанры ChatGpt.md.terabox.uploading.cfg",
+    "Перенос домена.md.terabox.uploading.cfg",
+    "Мать всех запросов.md.terabox.uploading.cfg",
+    "Без названия.md.terabox.uploading.cfg",
     "База знаний/В каких сферах умение фотографировать очень ценно.md",
+    "База знаний/Путешествия, туризм, активный образ жизни, хобби.md",
+    "База знаний/Семья, личная жизнь.md",
+    "База знаний/Тест удалить.md",
+    "Стили и литературные жанры ChatGpt.md",
     "База знаний/Бизнес, реклама, продвижение товаров и услуг.md",
     "База знаний/Создание сервера из образа TimeWeb.md",
     "База знаний/Создание сервера TimeWeb.md",
@@ -284,9 +296,6 @@
     "База знаний/Контент план.md",
     "Стили текста ChatGPT.md",
     "База знаний/Почему уметь фотографировать не просто выгодно, а необходимо каждому.md",
-    "База знаний/Значение фотографии в современном мире.md",
-    "База знаний/О чем этот блог и для кого.md",
-    "База знаний/HestiaCP.md",
     "_Исходники/Pasted image 20231101102113.png",
     "_Исходники/Pasted image 20231031214028.png",
     "_Исходники/Pasted image 20231031213919.png",
