@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Общий контент план.md",
+                "file": "Философия сообщества 'Фотопрактика'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Общий контент план.md",
+                "file": "Философия сообщества 'Фотопрактика'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общий контент план.md"
+                "file": "Философия сообщества 'Фотопрактика'.md"
               }
             }
           },
@@ -207,11 +208,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "6343ab1bbec8dd0a",
+  "active": "6a029d3ab13676a7",
   "lastOpenFiles": [
+    "Общий контент план.md",
     "База знаний/Основные смыслы контента для вовлечения в группу.md",
     "Как технический прогресс повлиял на фотографию.md",
-    "Общий контент план.md",
     "База знаний/Значение фотографии в современном мире.md",
     "База знаний/Почему уметь фотографировать не просто выгодно, а необходимо каждому.md",
     "База знаний/О чем этот блог и для кого.md",
