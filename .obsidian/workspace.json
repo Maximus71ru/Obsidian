@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Основные смыслы контента для вовлечения в группу.md",
+                "file": "Общий контент план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Основные смыслы контента для вовлечения в группу.md",
+                "file": "Общий контент план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Основные смыслы контента для вовлечения в группу.md"
+                "file": "Общий контент план.md"
               }
             }
           },
@@ -207,140 +207,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "522fe1a6c1c14a6c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "89f443c2713dc451",
-        "type": "window",
-        "children": [
-          {
-            "id": "1f3c4598af9f475c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f7ea5be042a4a2c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Основные смыслы контента для вовлечения в группу.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "46d7ce1b80d7142c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Серия статей для возбуждения интереса к фотографии.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 852,
-        "height": 1398,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "8446167156ba96b0",
-        "type": "window",
-        "children": [
-          {
-            "id": "dec6885dc3cdca95",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "80de1b3cd61e3dd9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Мотивирующие статьи.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5a8397dad971b85e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Общий контент план.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1677,
-        "y": 0,
-        "width": 882,
-        "height": 1399,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "087ffd85f6baa63d",
-        "type": "window",
-        "children": [
-          {
-            "id": "41428bcc998f4fa5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6ccb1c7c43ce9102",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Как технический прогресс повлиял на фотографию.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 838,
-        "y": 0,
-        "width": 844,
-        "height": 1399,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3f7ea5be042a4a2c",
+  "active": "6343ab1bbec8dd0a",
   "lastOpenFiles": [
+    "База знаний/Основные смыслы контента для вовлечения в группу.md",
     "Как технический прогресс повлиял на фотографию.md",
     "Общий контент план.md",
-    "База знаний/Основные смыслы контента для вовлечения в группу.md",
     "База знаний/Значение фотографии в современном мире.md",
     "База знаний/Почему уметь фотографировать не просто выгодно, а необходимо каждому.md",
     "База знаний/О чем этот блог и для кого.md",
