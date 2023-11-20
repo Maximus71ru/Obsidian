@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как технический прогресс повлиял на фотографию.md",
+                "file": "Общий контент план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как технический прогресс повлиял на фотографию.md",
+                "file": "Общий контент план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как технический прогресс повлиял на фотографию.md"
+                "file": "Общий контент план.md"
               }
             }
           },
@@ -213,7 +213,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Как технический прогресс повлиял на фотографию.md",
+                    "file": "Общий контент план.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -265,7 +265,7 @@
       }
     ]
   },
-  "active": "29324c153a9fabcb",
+  "active": "92698e96ad6d6f8d",
   "lastOpenFiles": [
     "Как технический прогресс повлиял на фотографию.md",
     "База знаний/О нас.md",
