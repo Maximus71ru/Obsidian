@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Как технический прогресс повлиял на фотографию.md",
+                "file": "Что такое хорошая фотография, какие критерии.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Общий контент план.md",
+                "file": "Что такое хорошая фотография, какие критерии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Общий контент план.md",
+                "file": "Что такое хорошая фотография, какие критерии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общий контент план.md"
+                "file": "Что такое хорошая фотография, какие критерии.md"
               }
             }
           },
@@ -196,24 +196,24 @@
     }
   },
   "floating": {
-    "id": "59435dcc90553223",
+    "id": "339f7757786cd40d",
     "type": "floating",
     "children": [
       {
-        "id": "e216f453e9c26500",
+        "id": "6669f5f70b5351ed",
         "type": "window",
         "children": [
           {
-            "id": "ab79a81fabf4dc9d",
+            "id": "d97e33520fb35ad7",
             "type": "tabs",
             "children": [
               {
-                "id": "92698e96ad6d6f8d",
+                "id": "3fb256eb79419ab0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Общий контент план.md",
+                    "file": "Что такое хорошая фотография, какие критерии.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -224,50 +224,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 708,
-        "y": 0,
+        "x": 1632,
+        "y": 2,
         "width": 924,
-        "height": 1394,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "39eb820a8424720f",
-        "type": "window",
-        "children": [
-          {
-            "id": "988cca05f15eb089",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d8d2f60aaaf02763",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Как технический прогресс повлиял на фотографию.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1630,
-        "y": 0,
-        "width": 924,
-        "height": 1388,
+        "height": 1385,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "92698e96ad6d6f8d",
+  "active": "3fb256eb79419ab0",
   "lastOpenFiles": [
+    "Общий контент план.md",
+    "Что такое хорошая фотография, какие критерии.md",
     "Как технический прогресс повлиял на фотографию.md",
+    "База знаний/О чем этот блог и для кого.md",
     "База знаний/О нас.md",
     "База знаний/Бренд.md",
     "Политика конфиденциальности.md",
@@ -276,7 +247,6 @@
     "База знаний/Сайт фото - школы страница О нас.md",
     "Сайт фотошколы.md",
     "Философия сообщества 'Фотопрактика'.md",
-    "Общий контент план.md",
     "База знаний/Экспертный контент.md",
     "База знаний/ChatGPT для SEO.md",
     "База знаний/Целевая Аудитория.md",
@@ -291,8 +261,6 @@
     "База знаний/ChatGPT для создания сайта.md",
     "База знаний/Вовлеченность в сообществе.md",
     "База знаний/Сценарий слайд шоу для дизайнеров.md",
-    "База знаний/PROMPT.md",
-    "База знаний/Tripwire.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
