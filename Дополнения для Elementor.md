@@ -38,4 +38,15 @@
 
 Плагин дополнение к JetEngine
 Функция - создание фильтров
+### essential-addons-v5.8.2
+[Видео](https://www.youtube.com/watch?v=j7Mc4-WO5BQ&t=8s)
+Зарегистрировался на сайте https://templately.com/ 
+Данные регистрации: 
+nsat2000@mail.ru
+gsa9fLtY_H.aTYf
 
+и получил доступ к бесплатным шаблонам 
+
+### anywhere-elementor-pro-addon-v2.25.10
+[Видео](https://ya.ru/video/preview/8296334920661485155)
+Создание произвольных шаблонов страниц, записей и т.п.

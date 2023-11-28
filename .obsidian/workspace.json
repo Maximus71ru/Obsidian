@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c745ac62a34a1e7a",
+            "id": "537bf19dc33f2566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контент план учебный.md",
+                "file": "Что такое хорошая фотография, какие критерии.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Контент план учебный.md",
+                "file": "Что такое хорошая фотография, какие критерии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Контент план учебный.md",
+                "file": "Что такое хорошая фотография, какие критерии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Контент план учебный.md"
+                "file": "Что такое хорошая фотография, какие критерии.md"
               }
             }
           },
@@ -209,19 +209,19 @@
     }
   },
   "floating": {
-    "id": "6bb6347391854a70",
+    "id": "1abfea37a4a0251b",
     "type": "floating",
     "children": [
       {
-        "id": "748df89de0ce7277",
+        "id": "3b535061aeecad14",
         "type": "window",
         "children": [
           {
-            "id": "8fbda059aca0da6c",
+            "id": "7bfc53b76899d052",
             "type": "tabs",
             "children": [
               {
-                "id": "49ab107194b373e4",
+                "id": "15f4b34499e94887",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -232,43 +232,31 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "a167d6c113006da2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Информационный стиль текста.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1510,
-        "y": 2,
-        "width": 1050,
-        "height": 1391,
+        "x": 1573,
+        "y": 12,
+        "width": 985,
+        "height": 1373,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "c745ac62a34a1e7a",
+  "active": "15f4b34499e94887",
   "lastOpenFiles": [
     "Что такое хорошая фотография, какие критерии.md",
-    "Контент план учебный.md",
     "Общий контент план.md",
     "База знаний/Работа над текстом.md",
+    "Контент план учебный.md",
+    "Шаблон записи.md",
+    "Дополнения для Elementor.md",
     "Шаблоны/Шаблон статьи.md",
     "Без названия 1.md",
     "База знаний/Информационный стиль текста.md",
-    "Дополнения для Elementor.md",
     "База знаний/Примеры работы с текстом.md",
     "База знаний/Основные смыслы контента для вовлечения в группу.md",
     "База знаний/Ресурсы для текста.md",
@@ -286,7 +274,6 @@
     "База знаний/Стратегия контент маркетинга.md",
     "База знаний/Контент маркетинг.md",
     "Как технический прогресс повлиял на фотографию.md",
-    "База знаний/О нас.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
