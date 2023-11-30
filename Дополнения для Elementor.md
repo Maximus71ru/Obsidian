@@ -49,4 +49,16 @@ gsa9fLtY_H.aTYf
 
 ### anywhere-elementor-pro-addon-v2.25.10
 [Видео](https://ya.ru/video/preview/8296334920661485155)
+[Видео](https://www.youtube.com/watch?v=F3HfU6tEXAo&t=75s)
 Создание произвольных шаблонов страниц, записей и т.п.
+
+### droit-elementor-addons-pro-v2.0.5
+
+### premium-addons-pro-v2.9.9
+
+### jetpopup-v2.0.1
+
+### sky-addons-v2.0.0
+
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Работа над текстом.md",
+                "file": "Учебный план.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "537bf19dc33f2566",
+            "id": "3ba66b3aa9b8634b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что такое хорошая фотография, какие критерии.md",
+                "file": "Создание фотографии.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "план",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7f45b70c9c16dfdc",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что такое хорошая фотография, какие критерии.md",
+                "file": "Создание фотографии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что такое хорошая фотография, какие критерии.md",
+                "file": "Создание фотографии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что такое хорошая фотография, какие критерии.md"
+                "file": "Создание фотографии.md"
               }
             }
           },
@@ -209,24 +210,24 @@
     }
   },
   "floating": {
-    "id": "1abfea37a4a0251b",
+    "id": "f1b442d9d6e5db7a",
     "type": "floating",
     "children": [
       {
-        "id": "3b535061aeecad14",
+        "id": "431808ba85c785a1",
         "type": "window",
         "children": [
           {
-            "id": "7bfc53b76899d052",
+            "id": "1f2d40dcc69a0668",
             "type": "tabs",
             "children": [
               {
-                "id": "15f4b34499e94887",
+                "id": "537bf19dc33f2566",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Что такое хорошая фотография, какие критерии.md",
+                    "file": "Создание фотографии.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -238,24 +239,27 @@
         ],
         "direction": "vertical",
         "x": 1573,
-        "y": 12,
-        "width": 985,
-        "height": 1373,
+        "y": 7,
+        "width": 982,
+        "height": 1397,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "15f4b34499e94887",
+  "active": "3ba66b3aa9b8634b",
   "lastOpenFiles": [
-    "Что такое хорошая фотография, какие критерии.md",
+    "Учебный план.md",
+    "Создание фотографии.md",
+    "Технические темы.md",
+    "Экспозиция.md",
     "Общий контент план.md",
-    "База знаний/Работа над текстом.md",
-    "Контент план учебный.md",
-    "Шаблон записи.md",
-    "Дополнения для Elementor.md",
+    "Что такое хорошая фотография, какие критерии.md",
     "Шаблоны/Шаблон статьи.md",
     "Без названия 1.md",
+    "Дополнения для Elementor.md",
+    "База знаний/Работа над текстом.md",
+    "Шаблон записи.md",
     "База знаний/Информационный стиль текста.md",
     "База знаний/Примеры работы с текстом.md",
     "База знаний/Основные смыслы контента для вовлечения в группу.md",
@@ -271,9 +275,6 @@
     "База знаний/О чем этот блог и для кого.md",
     "База знаний/Контент план.md",
     "Мотивирующие статьи.md",
-    "База знаний/Стратегия контент маркетинга.md",
-    "База знаний/Контент маркетинг.md",
-    "Как технический прогресс повлиял на фотографию.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
