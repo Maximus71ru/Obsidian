@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Диафрагма.md",
+                "file": "Выдержка.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диафрагма.md",
+                "file": "Выдержка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диафрагма.md",
+                "file": "Выдержка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диафрагма.md"
+                "file": "Выдержка.md"
               }
             }
           },
@@ -227,7 +227,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Диафрагма.md",
+                    "file": "Создание фотографии.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -247,12 +247,13 @@
       }
     ]
   },
-  "active": "537bf19dc33f2566",
+  "active": "3ba66b3aa9b8634b",
   "lastOpenFiles": [
+    "Создание фотографии.md",
+    "Технические темы.md",
     "Экспозиция.md",
     "Диафрагма.md",
-    "Технические темы.md",
-    "Создание фотографии.md",
+    "Выдержка.md",
     "Учебный план.md",
     "Общий контент план.md",
     "Что такое хорошая фотография, какие критерии.md",
@@ -274,7 +275,6 @@
     "База знаний/Контент стратегия.md",
     "Философия сообщества 'Фотопрактика'.md",
     "База знаний/О чем этот блог и для кого.md",
-    "База знаний/Контент план.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
