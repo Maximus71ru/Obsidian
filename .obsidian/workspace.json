@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Создание фотографии.md",
+                "file": "Экспозиция.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Создание фотографии.md",
+                "file": "Экспозиция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Создание фотографии.md",
+                "file": "Экспозиция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Создание фотографии.md"
+                "file": "Экспозиция.md"
               }
             }
           },
@@ -227,7 +227,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Создание фотографии.md",
+                    "file": "Экспозиция.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -249,10 +249,10 @@
   },
   "active": "3ba66b3aa9b8634b",
   "lastOpenFiles": [
-    "Учебный план.md",
     "Создание фотографии.md",
-    "Технические темы.md",
     "Экспозиция.md",
+    "Технические темы.md",
+    "Учебный план.md",
     "Общий контент план.md",
     "Что такое хорошая фотография, какие критерии.md",
     "Шаблоны/Шаблон статьи.md",
