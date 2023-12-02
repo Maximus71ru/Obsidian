@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISO.md",
+                "file": "Глубина резкости.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISO.md",
+                "file": "Глубина резкости.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISO.md",
+                "file": "Глубина резкости.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISO.md"
+                "file": "Глубина резкости.md"
               }
             }
           },
@@ -250,13 +250,14 @@
   "active": "3ba66b3aa9b8634b",
   "lastOpenFiles": [
     "Выдержка.md",
+    "Глубина резкости.md",
     "Технические темы.md",
+    "Учебный план.md",
+    "Общий контент план.md",
     "ISO.md",
     "Создание фотографии.md",
     "Экспозиция.md",
     "Диафрагма.md",
-    "Учебный план.md",
-    "Общий контент план.md",
     "Что такое хорошая фотография, какие критерии.md",
     "Шаблоны/Шаблон статьи.md",
     "Без названия 1.md",
@@ -274,7 +275,6 @@
     "База знаний/Задачи контента.md",
     "База знаний/Контент.md",
     "База знаний/Контент стратегия.md",
-    "Философия сообщества 'Фотопрактика'.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
