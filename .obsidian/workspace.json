@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритм настройки.md",
+                "file": "Технические темы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгоритм настройки.md",
+                "file": "Технические темы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгоритм настройки.md",
+                "file": "Технические темы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгоритм настройки.md"
+                "file": "Технические темы.md"
               }
             }
           },
@@ -249,10 +249,10 @@
   },
   "active": "3ba66b3aa9b8634b",
   "lastOpenFiles": [
+    "Алгоритм настройки.md",
     "Выдержка.md",
     "Технические темы.md",
     "Подведем итог.md",
-    "Алгоритм настройки.md",
     "Как использовать ГРИП.md",
     "Учебный план.md",
     "Общий контент план.md",
