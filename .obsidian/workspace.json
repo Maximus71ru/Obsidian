@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Технические темы.md",
+                "file": "Экспозиция в режиме Auto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Технические темы.md",
+                "file": "Экспозиция в режиме Auto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Технические темы.md"
+                "file": "Экспозиция в режиме Auto.md"
               }
             }
           },
@@ -227,7 +227,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Выдержка.md",
+                    "file": "Экспозиция в режиме Auto.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -247,12 +247,14 @@
       }
     ]
   },
-  "active": "3ba66b3aa9b8634b",
+  "active": "537bf19dc33f2566",
   "lastOpenFiles": [
+    "Технические темы.md",
+    "Экспозиция в режиме Auto.md",
+    "Экспонометр.md",
+    "Подведем итог.md",
     "Алгоритм настройки.md",
     "Выдержка.md",
-    "Технические темы.md",
-    "Подведем итог.md",
     "Как использовать ГРИП.md",
     "Учебный план.md",
     "Общий контент план.md",
@@ -273,8 +275,6 @@
     "База знаний/Основные смыслы контента для вовлечения в группу.md",
     "База знаний/Ресурсы для текста.md",
     "База знаний/Значение фотографии в современном мире.md",
-    "База знаний/Алгоритм написания теста.md",
-    "База знаний/Продвижение бренда.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
