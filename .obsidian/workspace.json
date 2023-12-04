@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Плюсы и минусы Auto экспозиции.md",
+                "file": "Особенности Auto экспозиции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Плюсы и минусы Auto экспозиции.md",
+                "file": "Особенности Auto экспозиции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Плюсы и минусы Auto экспозиции.md"
+                "file": "Особенности Auto экспозиции.md"
               }
             }
           },
@@ -213,7 +213,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Плюсы и минусы Auto экспозиции.md",
+                    "file": "Особенности Auto экспозиции.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -236,7 +236,7 @@
   "active": "a08a755779e3aaed",
   "lastOpenFiles": [
     "Принцип действия Auto экспозиции.md",
-    "Плюсы и минусы Auto экспозиции.md",
+    "Особенности Auto экспозиции.md",
     "Технические темы.md",
     "Учебный план.md",
     "База знаний/HestiaCP.md",
