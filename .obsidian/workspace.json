@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Форматы JPG и RAW.md",
+                "file": "Технические темы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Форматы JPG и RAW.md",
+                "file": "Технические темы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Форматы JPG и RAW.md"
+                "file": "Технические темы.md"
               }
             }
           },
@@ -213,7 +213,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Форматы JPG и RAW.md",
+                    "file": "Технические темы.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -233,11 +233,11 @@
       }
     ]
   },
-  "active": "461554f597349c42",
+  "active": "665348151d91b4ff",
   "lastOpenFiles": [
+    "Форматы JPG и RAW.md",
     "Технические темы.md",
     "Ручной режим настройки экспозиции.md",
-    "Форматы JPG и RAW.md",
     "Как выбрать режим.md",
     "База знаний/Серия статей для возбуждения интереса к фотографии.md",
     "Мотивирующие статьи.md",
