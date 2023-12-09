@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Нужно создавать только хорошие снимки.md",
+                "file": "Общий контент план.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Нужно создавать только хорошие снимки.md",
+                "file": "Общий контент план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Нужно создавать только хорошие снимки.md",
+                "file": "Общий контент план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Нужно создавать только хорошие снимки.md"
+                "file": "Общий контент план.md"
               }
             }
           },
@@ -235,8 +235,8 @@
   },
   "active": "461554f597349c42",
   "lastOpenFiles": [
-    "Общий контент план.md",
     "Нужно создавать только хорошие снимки.md",
+    "Общий контент план.md",
     "Что такое хорошая фотография, какие критерии.md",
     "База знаний/Какие преимущества дает умение фотографировать.md",
     "База знаний/Почему уметь фотографировать необходимо каждому.md",
