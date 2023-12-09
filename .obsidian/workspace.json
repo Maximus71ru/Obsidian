@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Форматы JPG и RAW.md",
+                "file": "Общий контент план.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Технические темы.md",
+                "file": "Общий контент план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Технические темы.md",
+                "file": "Общий контент план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Технические темы.md"
+                "file": "Общий контент план.md"
               }
             }
           },
@@ -233,18 +233,18 @@
       }
     ]
   },
-  "active": "665348151d91b4ff",
+  "active": "461554f597349c42",
   "lastOpenFiles": [
-    "Форматы JPG и RAW.md",
     "Технические темы.md",
+    "Принцип действия Auto экспозиции.md",
+    "Общий контент план.md",
+    "Форматы JPG и RAW.md",
     "Ручной режим настройки экспозиции.md",
     "Как выбрать режим.md",
     "База знаний/Серия статей для возбуждения интереса к фотографии.md",
     "Мотивирующие статьи.md",
-    "Общий контент план.md",
     "Как технический прогресс повлиял на фотографию.md",
     "База знаний/Темы для постов и статей.md",
-    "Принцип действия Auto экспозиции.md",
     "Поправка экспозиции.md",
     "Особенности Auto экспозиции.md",
     "Приоритетные режимы экспозиции.md",
