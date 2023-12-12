@@ -26,7 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "С чего начать, первые шаги.md",
+                "file": "Общий контент план.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad35841d81e03754",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9fada349597a3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бесплатные изображения.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "С чего начать, первые шаги.md",
+                "file": "Бесплатные изображения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С чего начать, первые шаги.md",
+                "file": "Бесплатные изображения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "С чего начать, первые шаги.md"
+                "file": "Бесплатные изображения.md"
               }
             }
           },
@@ -247,8 +268,9 @@
       }
     ]
   },
-  "active": "887eb8feebc018ff",
+  "active": "b9fada349597a3e2",
   "lastOpenFiles": [
+    "Бесплатные изображения.md",
     "Общий контент план.md",
     "С чего начать, первые шаги.md",
     "LeornDash онлайн школа.md",
@@ -274,7 +296,6 @@
     "Нужно создавать только хорошие снимки.md",
     "Что такое хорошая фотография, какие критерии.md",
     "База знаний/Какие преимущества дает умение фотографировать.md",
-    "База знаний/Почему уметь фотографировать необходимо каждому.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
