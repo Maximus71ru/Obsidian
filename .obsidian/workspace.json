@@ -8,37 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99fa5c79c6d3a8e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeornDash онлайн школа.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "887eb8feebc018ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общий контент план.md",
+                "file": "База знаний/О чем этот блог и для кого.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ad35841d81e03754",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -53,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fe621c5a2a2f819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Бренд.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бесплатные изображения.md",
+                "file": "База знаний/О чем этот блог и для кого.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бесплатные изображения.md",
+                "file": "База знаний/О чем этот блог и для кого.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бесплатные изображения.md"
+                "file": "База знаний/О чем этот блог и для кого.md"
               }
             }
           },
@@ -248,7 +240,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "С чего начать, первые шаги.md",
+                    "file": "База знаний/О чем этот блог и для кого.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4a53d5c421281eda",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Запросы удалить.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -268,12 +273,15 @@
       }
     ]
   },
-  "active": "b9fada349597a3e2",
+  "active": "793a47dd2e5a8cce",
   "lastOpenFiles": [
+    "База знаний/Бренд.md",
+    "База знаний/О чем этот блог и для кого.md",
+    "Запросы удалить.md",
     "Бесплатные изображения.md",
+    "LeornDash онлайн школа.md",
     "Общий контент план.md",
     "С чего начать, первые шаги.md",
-    "LeornDash онлайн школа.md",
     "База знаний/Создание сервера TimeWeb.md",
     "База знаний/Сервер.md",
     "База знаний/Создание сервера из образа TimeWeb.md",
@@ -285,9 +293,7 @@
     "Упущенные возможности не вернуть.md",
     "Технические темы.md",
     "Создание фотографии.md",
-    "База знаний/О чем этот блог и для кого.md",
     "Инструменты фотографа, его арсенал.md",
-    "База знаний/Бренд.md",
     "База знаний/Воронка и автоворонка.md",
     "База знаний/Упаковка смыслов.md",
     "Экспонометр.md",
@@ -295,7 +301,6 @@
     "База знаний/Зачем учиться фотографировать.md",
     "Нужно создавать только хорошие снимки.md",
     "Что такое хорошая фотография, какие критерии.md",
-    "База знаний/Какие преимущества дает умение фотографировать.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
