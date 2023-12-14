@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бесплатные изображения.md",
+                "file": "Регистрация ГБО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бесплатные изображения.md",
+                "file": "Регистрация ГБО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бесплатные изображения.md"
+                "file": "Регистрация ГБО.md"
               }
             }
           },
@@ -253,14 +253,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Запросы удалить.md",
+                    "file": "Регистрация ГБО.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -273,15 +274,15 @@
       }
     ]
   },
-  "active": "b9fada349597a3e2",
+  "active": "4a53d5c421281eda",
   "lastOpenFiles": [
-    "Стиль оформления Фотопрактика.md",
     "База знаний/О чем этот блог и для кого.md",
-    "Запросы для поиска фотографий.md",
     "Бесплатные изображения.md",
+    "Стиль оформления Фотопрактика.md",
+    "Запросы для поиска фотографий.md",
     "База знаний/Оформление поста.md",
     "База знаний/Бренд.md",
-    "Запросы удалить.md",
+    "Регистрация ГБО.md",
     "LeornDash онлайн школа.md",
     "Общий контент план.md",
     "С чего начать, первые шаги.md",
