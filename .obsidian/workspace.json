@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Web",
+                "query": "tag:#Статья/черновик",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/О чем этот блог и для кого.md",
+                "file": "Общий контент план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/О чем этот блог и для кого.md",
+                "file": "Общий контент план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/О чем этот блог и для кого.md"
+                "file": "Общий контент план.md"
               }
             }
           },
@@ -209,47 +208,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "3d2b4a4258d44e79",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2d0f18090b63d2ca",
-        "type": "window",
-        "children": [
-          {
-            "id": "a3f97d46028619bc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bacd45edd9ff1f27",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/О чем этот блог и для кого.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1591,
-        "y": 2,
-        "width": 967,
-        "height": 1388,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bacd45edd9ff1f27",
+  "active": "887eb8feebc018ff",
   "lastOpenFiles": [
+    "ISO.md",
     "Общий контент план.md",
+    "Выдержка.md",
+    "База знаний/Почему уметь фотографировать необходимо каждому.md",
+    "Диафрагма.md",
+    "База знаний/О чем этот блог и для кого.md",
+    "Создание фотографии.md",
+    "База знаний/Значение фотографии в современном мире.md",
+    "Экспозиция.md",
     "Форматы JPG и RAW.md",
     "Ручной режим настройки экспозиции.md",
     "Поиск фото.md",
@@ -267,14 +236,6 @@
     "Технические темы.md",
     "Экспонометр.md",
     "С чего начать, первые шаги.md",
-    "Алгоритм настройки экспозиции.md",
-    "База знаний/О чем этот блог и для кого.md",
-    "Бесплатные изображения.md",
-    "Упущенные возможности не вернуть.md",
-    "Подведем итог.md",
-    "База знаний/Зачем учиться фотографировать.md",
-    "Как использовать глубину резкости.md",
-    "Создаем только хорошие снимки.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
