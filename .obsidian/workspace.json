@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Auto экспозиции - плюсы и минусы.md",
+                "file": "Ресурсы бесплатных фото.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Auto экспозиции - плюсы и минусы.md",
+                "file": "Ресурсы бесплатных фото.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auto экспозиции - плюсы и минусы.md"
+                "file": "Ресурсы бесплатных фото.md"
               }
             }
           },
@@ -259,7 +259,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Auto экспозиции - плюсы и минусы.md",
+                    "file": "Общий контент план.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -292,9 +292,10 @@
       }
     ]
   },
-  "active": "976b3bdda85bfa7d",
+  "active": "b9fada349597a3e2",
   "lastOpenFiles": [
     "Общий контент план.md",
+    "Auto экспозиции - плюсы и минусы.md",
     "База знаний/Роль фотографии в бизнесе.md",
     "Особенности Auto экспозиции.md",
     "База знаний/Фотография для дизайнеров.md",
@@ -319,7 +320,6 @@
     "База знаний/Почему умение фотографировать необходимо каждому.md",
     "Диафрагма.md",
     "Экспозиция.md",
-    "База знаний/Значение фотографии в нашей жизни.md",
     "База знаний/Схема контент стратегия.canvas",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
