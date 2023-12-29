@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Статья",
+  "search": "tag:#Статья  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Продвижение_5  ",
+      "query": "tag:#SEO_5  ",
       "color": {
         "a": 1,
         "rgb": 13902113
       }
     },
     {
-      "query": "tag:Продвижение_4",
+      "query": "tag:#SEO_4  ",
       "color": {
         "a": 1,
         "rgb": 14594132
       }
     },
     {
-      "query": "tag:Продвижение_3",
+      "query": "tag:#SEO_3  ",
       "color": {
         "a": 1,
         "rgb": 9738823
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8854989543150724,
-  "close": false
+  "scale": 1.0534979423868338,
+  "close": true
 }
