@@ -1,42 +1,35 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "search": "tag:#Статья",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#оглавление",
+      "query": "tag:#Продвижение_5  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13902113
       }
     },
     {
-      "query": "tag:#кортизол",
+      "query": "tag:Продвижение_4",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14594132
       }
     },
     {
-      "query": "path:НЕТВОРКИНГ",
+      "query": "tag:Продвижение_3",
       "color": {
         "a": 1,
-        "rgb": 5010928
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 9738823
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7404978230766268,
-  "close": true
+  "scale": 0.8854989543150724,
+  "close": false
 }
