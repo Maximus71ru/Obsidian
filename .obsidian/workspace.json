@@ -8,14 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9fada349597a3e2",
+            "id": "6fc34b92a4972dd9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Идеи для роликов.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93d23342f6d3eb36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Анимация текста.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee84f79d147f8349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Меню виды - Views.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -45,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Продвижение_5",
+                "query": "памяти",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "База знаний/Меню виды - Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "База знаний/Меню виды - Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "База знаний/Меню виды - Views.md"
+              }
             }
           },
           {
@@ -171,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,12 +266,17 @@
                 "id": "b9df5371d4de1c7f",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "База знаний/Меню виды - Views.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -259,7 +301,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Общий контент план.md",
+                    "file": "База знаний/О чем этот блог и для кого.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -267,12 +309,12 @@
                 }
               },
               {
-                "id": "8c609c004ef181ee",
+                "id": "7d02e8e1ab95f85b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Общий контент план.md",
+                    "file": "Нужно стремиться создавать только отличные кадры.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -280,20 +322,32 @@
                 }
               },
               {
-                "id": "09751a5b65c9dfec",
+                "id": "aec2a0c1b8e7dfe2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "База знаний/Почему умение фотографировать необходимо каждому.md",
+                    "file": "База знаний/Зачем учиться фотографировать.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8a0fb42ee0846da9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "База знаний/Какие фотографии нужны для социальных сетей.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -301,50 +355,50 @@
         "y": 0,
         "width": 978,
         "height": 1019,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b9fada349597a3e2",
+  "active": "ee84f79d147f8349",
   "lastOpenFiles": [
-    "База знаний/Почему умение фотографировать необходимо каждому.md",
+    "База знаний/Cinema 4D.md",
+    "База знаний/Меню виды - Views.md",
+    "База знаний/Камера.md",
+    "База знаний/Интерфейс Cinema 4D.md",
+    "База знаний/Панель Atributes.md",
+    "База знаний/Идеи для роликов.md",
+    "База знаний/О чем этот блог и для кого.md",
+    "База знаний/Анимация текста.md",
+    "База знаний/Выбор видеокарты.md",
+    "База знаний/3D.md",
+    "База знаний/AE_After Effects.md",
+    "База знаний/Маски.md",
+    "База знаний/AE_Эффекты.md",
+    "База знаний/Шейпы.md",
+    "База знаний/Contents.md",
+    "База знаний/Wiggly.md",
+    "База знаний/Анимация шейпов.md",
+    "Ресурсы бесплатных фото.md",
     "Общий контент план.md",
-    "Нужно стремиться создавать только отличные кадры.md",
-    "Глубина резкости ГРИП.md",
-    "Алгоритм настройки экспозиции.md",
-    "Инструменты фотографа, его арсенал.md",
-    "База знаний/Какие преимущества дает умение фотографировать.md",
-    "База знаний/Значение фотографии в нашей жизни.md",
-    "База знаний/Фотография для семейного архива.md",
-    "Что такое хорошая фотография.md",
-    "Настройка страницы сайта.md",
-    "Что такое экспозиция.md",
-    "База знаний/Роль фотографии в продвижении бизнеса.md",
-    "База знаний/Фотография для дизайнеров.md",
-    "Какие преимущества дает фотоаппарат.md",
-    "Auto экспозиция - принцип действия.md",
-    "Коррекция экспозиции.md",
-    "Приоритетные режимы экспозиции.md",
-    "Почему ошибается Auto экспозиция.md",
-    "Экспонометр.md",
-    "Auto экспозиции - плюсы и минусы.md",
-    "особенность Auto экспозиции.md",
-    "Auto экспозиция.md",
-    "плюсах и минусах Auto экспозиции.md",
-    "Экспозиция - важные выводы.md",
-    "Как использовать глубину резкости.md",
-    "База знаний/Схема контент стратегия.canvas",
+    "База знаний/Плагины и скрипты.md",
+    "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
+    "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
     "Шаблоны/Фотографы.md.terabox.uploading.cfg",
     "Шаблоны/Теги бизнес.md.terabox.uploading.cfg",
     "Шаблоны/План написания статей.md.terabox.uploading.cfg",
     "Шаблоны/Заметка с линиями.md.terabox.uploading.cfg",
-    "Стили текста ChatGPT.md.terabox.uploading.cfg",
-    "Стили и литературные жанры ChatGpt.md.terabox.uploading.cfg",
-    "Перенос домена.md.terabox.uploading.cfg",
-    "Мать всех запросов.md.terabox.uploading.cfg",
+    "Шаблон записи.md.terabox.uploading.cfg",
+    "Что такое хорошая фотография, какие критерии.md.terabox.uploading.cfg",
+    "База знаний/Презентации.md",
+    "База знаний/Привязка и контроллеры.md",
+    "База знаний/Работа с фотографиями.md",
+    "База знаний/Управление скоростью.md",
+    "База знаний/Растровые изображения.md",
+    "База знаний/Векторные изображения.md",
+    "База знаний/Схема контент стратегия.canvas",
     "_Исходники/Pasted image 20231101102113.png",
     "_Исходники/Pasted image 20231031214028.png",
     "_Исходники/Pasted image 20231031213919.png",
