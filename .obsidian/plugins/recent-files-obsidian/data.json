@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Меню тегов",
-      "path": "База знаний/Меню тегов.md"
-    },
-    {
       "basename": "Меню режимов",
       "path": "База знаний/Меню режимов.md"
-    },
-    {
-      "basename": "Интерфейс Cinema 4D",
-      "path": "База знаний/Интерфейс Cinema 4D.md"
     },
     {
       "basename": "Cinema 4D",
       "path": "База знаний/Cinema 4D.md"
     },
     {
-      "basename": "Идеи для роликов",
-      "path": "База знаний/Идеи для роликов.md"
+      "basename": "Панель Atributes",
+      "path": "База знаний/Панель Atributes.md"
     },
     {
       "basename": "Камера",
       "path": "База знаний/Камера.md"
+    },
+    {
+      "basename": "Выбор видеокарты",
+      "path": "База знаний/Выбор видеокарты.md"
+    },
+    {
+      "basename": "Конфигурация",
+      "path": "База знаний/Конфигурация.md"
+    },
+    {
+      "basename": "Меню окна Viewport",
+      "path": "База знаний/Меню окна Viewport.md"
+    },
+    {
+      "basename": "Интерфейс Cinema 4D",
+      "path": "База знаний/Интерфейс Cinema 4D.md"
+    },
+    {
+      "basename": "Меню тегов",
+      "path": "База знаний/Меню тегов.md"
+    },
+    {
+      "basename": "Идеи для роликов",
+      "path": "База знаний/Идеи для роликов.md"
     },
     {
       "basename": "Меню инструменты",
@@ -47,14 +63,6 @@
     {
       "basename": "Анимация текста",
       "path": "База знаний/Анимация текста.md"
-    },
-    {
-      "basename": "Меню окна Viewport",
-      "path": "База знаний/Меню окна Viewport.md"
-    },
-    {
-      "basename": "Панель Atributes",
-      "path": "База знаний/Панель Atributes.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Меню тегов.md",
+                "file": "База знаний/Cinema 4D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Камера.md",
+                "file": "База знаний/Меню режимов.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,14 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Интерфейс Cinema 4D.md",
+                "file": "База знаний/Выбор видеокарты.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cinema_4D",
+                "query": "видео",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Меню тегов.md",
+                "file": "База знаний/Меню режимов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Меню тегов.md",
+                "file": "База знаний/Меню режимов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Меню тегов.md"
+                "file": "База знаний/Меню режимов.md"
               }
             }
           },
@@ -372,23 +373,24 @@
       }
     ]
   },
-  "active": "ee84f79d147f8349",
+  "active": "1c87905da5e510b6",
   "lastOpenFiles": [
+    "База знаний/Cinema 4D.md",
+    "База знаний/Панель Atributes.md",
+    "База знаний/Камера.md",
+    "База знаний/Выбор видеокарты.md",
+    "База знаний/Конфигурация.md",
+    "База знаний/Меню окна Viewport.md",
     "База знаний/Меню режимов.md",
     "База знаний/Интерфейс Cinema 4D.md",
-    "База знаний/Cinema 4D.md",
     "База знаний/Меню тегов.md",
     "База знаний/Идеи для роликов.md",
-    "База знаний/Камера.md",
     "База знаний/Меню инструменты.md",
     "База знаний/О чем этот блог и для кого.md",
     "База знаний/Примитивы и полигоны.md",
     "База знаний/Примитивы.md",
     "База знаний/Панель Objects.md",
     "База знаний/Анимация текста.md",
-    "База знаний/Меню окна Viewport.md",
-    "База знаний/Панель Atributes.md",
-    "База знаний/Выбор видеокарты.md",
     "База знаний/3D.md",
     "База знаний/AE_After Effects.md",
     "База знаний/Маски.md",
@@ -399,7 +401,6 @@
     "База знаний/Анимация шейпов.md",
     "Ресурсы бесплатных фото.md",
     "Общий контент план.md",
-    "База знаний/Плагины и скрипты.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
