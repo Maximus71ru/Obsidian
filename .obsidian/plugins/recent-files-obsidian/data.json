@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Меню виды - Views",
-      "path": "База знаний/Меню виды - Views.md"
-    },
-    {
-      "basename": "Cinema 4D",
-      "path": "База знаний/Cinema 4D.md"
-    },
-    {
-      "basename": "Камера",
-      "path": "База знаний/Камера.md"
+      "basename": "Меню инструменты",
+      "path": "База знаний/Меню инструменты.md"
     },
     {
       "basename": "Интерфейс Cinema 4D",
       "path": "База знаний/Интерфейс Cinema 4D.md"
     },
     {
-      "basename": "Панель Atributes",
-      "path": "База знаний/Панель Atributes.md"
+      "basename": "Меню режимов",
+      "path": "База знаний/Меню режимов.md"
+    },
+    {
+      "basename": "Cinema 4D",
+      "path": "База знаний/Cinema 4D.md"
+    },
+    {
+      "basename": "О чем этот блог и для кого",
+      "path": "База знаний/О чем этот блог и для кого.md"
+    },
+    {
+      "basename": "Примитивы и полигоны",
+      "path": "База знаний/Примитивы и полигоны.md"
+    },
+    {
+      "basename": "Примитивы",
+      "path": "База знаний/Примитивы.md"
+    },
+    {
+      "basename": "Панель Objects",
+      "path": "База знаний/Панель Objects.md"
     },
     {
       "basename": "Идеи для роликов",
       "path": "База знаний/Идеи для роликов.md"
     },
     {
-      "basename": "О чем этот блог и для кого",
-      "path": "База знаний/О чем этот блог и для кого.md"
+      "basename": "Анимация текста",
+      "path": "База знаний/Анимация текста.md"
+    },
+    {
+      "basename": "Меню окна Viewport",
+      "path": "База знаний/Меню окна Viewport.md"
+    },
+    {
+      "basename": "Камера",
+      "path": "База знаний/Камера.md"
+    },
+    {
+      "basename": "Панель Atributes",
+      "path": "База знаний/Панель Atributes.md"
     }
   ],
   "omittedPaths": [],

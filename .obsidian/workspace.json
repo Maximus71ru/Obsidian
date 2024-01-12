@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "93d23342f6d3eb36",
+            "id": "ee84f79d147f8349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Анимация текста.md",
+                "file": "База знаний/Интерфейс Cinema 4D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "ee84f79d147f8349",
+            "id": "fb7e9a1df9818140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Меню виды - Views.md",
+                "file": "База знаний/Меню режимов.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c87905da5e510b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Меню инструменты.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "памяти",
+                "query": "tag:#Cinema_4D",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Меню виды - Views.md",
+                "file": "База знаний/Меню инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Меню виды - Views.md",
+                "file": "База знаний/Меню инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Меню виды - Views.md"
+                "file": "База знаний/Меню инструменты.md"
               }
             }
           },
@@ -268,7 +281,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "База знаний/Меню виды - Views.md",
+                    "file": "База знаний/Меню окна Viewport.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -360,16 +373,21 @@
       }
     ]
   },
-  "active": "ee84f79d147f8349",
+  "active": "1c87905da5e510b6",
   "lastOpenFiles": [
-    "База знаний/Cinema 4D.md",
-    "База знаний/Меню виды - Views.md",
-    "База знаний/Камера.md",
     "База знаний/Интерфейс Cinema 4D.md",
-    "База знаний/Панель Atributes.md",
-    "База знаний/Идеи для роликов.md",
+    "База знаний/Меню режимов.md",
+    "База знаний/Меню инструменты.md",
+    "База знаний/Cinema 4D.md",
     "База знаний/О чем этот блог и для кого.md",
+    "База знаний/Примитивы и полигоны.md",
+    "База знаний/Примитивы.md",
+    "База знаний/Панель Objects.md",
+    "База знаний/Идеи для роликов.md",
     "База знаний/Анимация текста.md",
+    "База знаний/Меню окна Viewport.md",
+    "База знаний/Камера.md",
+    "База знаний/Панель Atributes.md",
     "База знаний/Выбор видеокарты.md",
     "База знаний/3D.md",
     "База знаний/AE_After Effects.md",
@@ -393,11 +411,6 @@
     "Шаблон записи.md.terabox.uploading.cfg",
     "Что такое хорошая фотография, какие критерии.md.terabox.uploading.cfg",
     "База знаний/Презентации.md",
-    "База знаний/Привязка и контроллеры.md",
-    "База знаний/Работа с фотографиями.md",
-    "База знаний/Управление скоростью.md",
-    "База знаний/Растровые изображения.md",
-    "База знаний/Векторные изображения.md",
     "База знаний/Схема контент стратегия.canvas",
     "_Исходники/Pasted image 20231101102113.png",
     "_Исходники/Pasted image 20231031214028.png",

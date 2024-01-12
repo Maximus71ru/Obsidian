@@ -1,8 +1,12 @@
 #Cinema_4D
 [[Интерфейс Cinema 4D]]
+[[Меню режимов]]
+[[Меню инструменты]]
 [[Панель Atributes]]
-[[Меню виды - Views]]
+[[Меню окна Viewport]]
+[[Панель Objects]]
 [[Камера]]
+[[Примитивы]]
 _____
 [Справочник](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/5425.html?TocPath=_____4)
 
