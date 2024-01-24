@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Генераторы.md",
+                "file": "База знаний/Эффекторы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,33 +34,19 @@
             }
           },
           {
-            "id": "ad41a43d54540701",
+            "id": "ed381a4f8199e21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Свет Cinema 4D.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de3826e5b3a0656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Разбитие объекта на частицы.md",
+                "file": "База знаний/Деформация объекта Деформеры.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fract",
+                "query": "tag:#Cinema_4D",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Разбитие объекта на частицы.md",
+                "file": "База знаний/Эффекторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Разбитие объекта на частицы.md",
+                "file": "База знаний/Эффекторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Разбитие объекта на частицы.md"
+                "file": "База знаний/Эффекторы.md"
               }
             }
           },
@@ -385,24 +371,24 @@
       }
     ]
   },
-  "active": "6de3826e5b3a0656",
+  "active": "ee84f79d147f8349",
   "lastOpenFiles": [
     "База знаний/MoGraph.md",
-    "База знаний/Разбитие объекта на частицы.md",
-    "База знаний/Эффекторы.md",
     "База знаний/Деформация объекта Деформеры.md",
+    "База знаний/Примитивы и полигоны.md",
+    "База знаний/Свет Cinema 4D.md",
+    "База знаний/Разбитие объекта на частицы.md",
+    "База знаний/Cinema 4D.md",
+    "База знаний/Меню создание объектов.md",
+    "База знаний/Генераторы.md",
+    "База знаний/Эффекторы.md",
     "База знаний/О чем этот блог и для кого.md",
     "База знаний/Сгибание.md",
-    "База знаний/Cinema 4D.md",
     "База знаний/Интерфейс Cinema 4D.md",
-    "База знаний/Генераторы.md",
-    "База знаний/Меню создание объектов.md",
     "База знаний/Меню тегов.md",
     "База знаний/Меню инструменты.md",
-    "База знаний/Примитивы и полигоны.md",
     "База знаний/Примитивы.md",
     "База знаний/Bullet Dynamics - Динамика, движение.md",
-    "База знаний/Свет Cinema 4D.md",
     "База знаний/Сброс координат.md",
     "База знаний/Spline Wrap.md",
     "База знаний/Клонирование - Cloner Object.md",
