@@ -9,6 +9,10 @@
 [[Панель Objects]]
 [[Камера]]
 [[Примитивы]]
+[[Рендеринг]]
+[[Меню создание объектов]]
+[[MoGraph]]
+[[Свет Cinema 4D|Свет]]
 _____
 [Справочник](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/5425.html?TocPath=_____4)
 

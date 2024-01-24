@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Cinema 4D.md",
+                "file": "База знаний/Генераторы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Меню режимов.md",
+                "file": "База знаний/Примитивы и полигоны.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "1c87905da5e510b6",
+            "id": "ad41a43d54540701",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Меню режимов.md",
+                "file": "База знаний/Свет Cinema 4D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "73b785bf2885ff22",
+            "id": "6de3826e5b3a0656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Выбор видеокарты.md",
+                "file": "База знаний/Разбитие объекта на частицы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "видео",
+                "query": "fract",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Меню режимов.md",
+                "file": "База знаний/Разбитие объекта на частицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Меню режимов.md",
+                "file": "База знаний/Разбитие объекта на частицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Меню режимов.md"
+                "file": "База знаний/Разбитие объекта на частицы.md"
               }
             }
           },
@@ -287,9 +287,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "38c38e11440c8bad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "База знаний/Интерфейс Cinema 4D.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -373,34 +385,34 @@
       }
     ]
   },
-  "active": "1c87905da5e510b6",
+  "active": "6de3826e5b3a0656",
   "lastOpenFiles": [
-    "База знаний/Cinema 4D.md",
-    "База знаний/Панель Atributes.md",
-    "База знаний/Камера.md",
-    "База знаний/Выбор видеокарты.md",
-    "База знаний/Конфигурация.md",
-    "База знаний/Меню окна Viewport.md",
-    "База знаний/Меню режимов.md",
-    "База знаний/Интерфейс Cinema 4D.md",
-    "База знаний/Меню тегов.md",
-    "База знаний/Идеи для роликов.md",
-    "База знаний/Меню инструменты.md",
+    "База знаний/MoGraph.md",
+    "База знаний/Разбитие объекта на частицы.md",
+    "База знаний/Эффекторы.md",
+    "База знаний/Деформация объекта Деформеры.md",
     "База знаний/О чем этот блог и для кого.md",
+    "База знаний/Сгибание.md",
+    "База знаний/Cinema 4D.md",
+    "База знаний/Интерфейс Cinema 4D.md",
+    "База знаний/Генераторы.md",
+    "База знаний/Меню создание объектов.md",
+    "База знаний/Меню тегов.md",
+    "База знаний/Меню инструменты.md",
     "База знаний/Примитивы и полигоны.md",
     "База знаний/Примитивы.md",
+    "База знаний/Bullet Dynamics - Динамика, движение.md",
+    "База знаний/Свет Cinema 4D.md",
+    "База знаний/Сброс координат.md",
+    "База знаний/Spline Wrap.md",
+    "База знаний/Клонирование - Cloner Object.md",
+    "База знаний/Идеи для роликов.md",
+    "База знаний/Камера.md",
+    "Что такое экспозиция.md",
+    "База знаний/Конфигурация.md",
     "База знаний/Панель Objects.md",
-    "База знаний/Анимация текста.md",
-    "База знаний/3D.md",
-    "База знаний/AE_After Effects.md",
-    "База знаний/Маски.md",
-    "База знаний/AE_Эффекты.md",
-    "База знаний/Шейпы.md",
-    "База знаний/Contents.md",
-    "База знаний/Wiggly.md",
-    "База знаний/Анимация шейпов.md",
-    "Ресурсы бесплатных фото.md",
-    "Общий контент план.md",
+    "База знаний/Рендеринг.md",
+    "База знаний/Панель Atributes.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
