@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee84f79d147f8349",
+            "id": "ed381a4f8199e21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fb7e9a1df9818140",
+            "id": "11deea7dba23d2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Примитивы и полигоны.md",
+                "file": "База знаний/Эффекторы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "ed381a4f8199e21a",
+            "id": "bc07a78403cbe7bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Деформация объекта Деформеры.md",
+                "file": "База знаний/Разбитие объекта на частицы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cinema_4D",
+                "query": "plain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Эффекторы.md",
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Эффекторы.md",
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Эффекторы.md"
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
               }
             }
           },
@@ -286,8 +286,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "59b145deb030c46a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -371,17 +385,21 @@
       }
     ]
   },
-  "active": "ee84f79d147f8349",
+  "active": "59b145deb030c46a",
   "lastOpenFiles": [
-    "База знаний/MoGraph.md",
+    "База знаний/Эффекторы.md",
+    "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
     "База знаний/Деформация объекта Деформеры.md",
-    "База знаний/Примитивы и полигоны.md",
-    "База знаний/Свет Cinema 4D.md",
     "База знаний/Разбитие объекта на частицы.md",
+    "База знаний/MoGraph.md",
+    "База знаний/Примитивы и полигоны.md",
+    "База знаний/Курсы Cinema 4D.md",
+    "База знаний/Курсы.md",
     "База знаний/Cinema 4D.md",
+    "База знаний/000_Меню.md",
+    "База знаний/Свет Cinema 4D.md",
     "База знаний/Меню создание объектов.md",
     "База знаний/Генераторы.md",
-    "База знаний/Эффекторы.md",
     "База знаний/О чем этот блог и для кого.md",
     "База знаний/Сгибание.md",
     "База знаний/Интерфейс Cinema 4D.md",
@@ -395,10 +413,6 @@
     "База знаний/Идеи для роликов.md",
     "База знаний/Камера.md",
     "Что такое экспозиция.md",
-    "База знаний/Конфигурация.md",
-    "База знаний/Панель Objects.md",
-    "База знаний/Рендеринг.md",
-    "База знаний/Панель Atributes.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
