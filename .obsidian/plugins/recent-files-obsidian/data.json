@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Никита Чесноков - Cinema 4D Базовый уровень (2019)",
-      "path": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
+      "basename": "Simulate Menu",
+      "path": "База знаний/Simulate Menu.md"
+    },
+    {
+      "basename": "Cinema 4D",
+      "path": "База знаний/Cinema 4D.md"
+    },
+    {
+      "basename": "MoGraph",
+      "path": "База знаний/MoGraph.md"
     },
     {
       "basename": "Эффекторы",
       "path": "База знаний/Эффекторы.md"
+    },
+    {
+      "basename": "Идеи для роликов",
+      "path": "База знаний/Идеи для роликов.md"
+    },
+    {
+      "basename": "Интерфейс Cinema 4D",
+      "path": "База знаний/Интерфейс Cinema 4D.md"
+    },
+    {
+      "basename": "Разбитие объекта на частицы",
+      "path": "База знаний/Разбитие объекта на частицы.md"
+    },
+    {
+      "basename": "Никита Чесноков - Cinema 4D Базовый уровень (2019)",
+      "path": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
     },
     {
       "basename": "О чем этот блог и для кого",
@@ -19,14 +43,6 @@
     {
       "basename": "Анимация",
       "path": "База знаний/Анимация.md"
-    },
-    {
-      "basename": "Cinema 4D",
-      "path": "База знаний/Cinema 4D.md"
-    },
-    {
-      "basename": "MoGraph",
-      "path": "База знаний/MoGraph.md"
     }
   ],
   "omittedPaths": [],
