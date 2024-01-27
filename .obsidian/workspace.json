@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/MoGraph.md",
+                "file": "База знаний/Камера.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Эффекторы.md",
+                "file": "База знаний/Rigging Tags.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tracer",
+                "query": "Rigging",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+                "file": "База знаний/Камера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+                "file": "База знаний/Камера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
+                "file": "База знаний/Камера.md"
               }
             }
           },
@@ -385,18 +385,22 @@
       }
     ]
   },
-  "active": "59b145deb030c46a",
+  "active": "ed381a4f8199e21a",
   "lastOpenFiles": [
-    "База знаний/MoGraph.md",
+    "База знаний/Rigging Tags.md",
+    "База знаний/Камера.md",
     "База знаний/Cinema 4D.md",
-    "База знаний/Simulate Menu.md",
+    "База знаний/Меню окна Viewport.md",
+    "База знаний/Меню тегов.md",
     "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
     "База знаний/Эффекторы.md",
+    "База знаний/3D.md",
+    "База знаний/MoGraph.md",
+    "База знаний/Simulate Menu.md",
     "База знаний/Идеи для роликов.md",
     "База знаний/Интерфейс Cinema 4D.md",
     "База знаний/Разбитие объекта на частицы.md",
     "База знаний/О чем этот блог и для кого.md",
-    "База знаний/Меню тегов.md",
     "База знаний/Анимация.md",
     "База знаний/Деформация объекта Деформеры.md",
     "База знаний/Примитивы и полигоны.md",
@@ -409,10 +413,6 @@
     "База знаний/Сгибание.md",
     "База знаний/Меню инструменты.md",
     "База знаний/Примитивы.md",
-    "База знаний/Bullet Dynamics - Динамика, движение.md",
-    "База знаний/Сброс координат.md",
-    "База знаний/Spline Wrap.md",
-    "База знаний/Клонирование - Cloner Object.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
