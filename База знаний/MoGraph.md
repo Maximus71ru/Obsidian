@@ -36,7 +36,7 @@ MoGraph предлагает следующие интересные функц�
  - [MoInstance](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_INSTANCE.html?TocPath=MoGraph%257CAdditional%2520Objects%257CMoInstance%257C_____0).
  - [Motion Graphics Tracer Object](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_TRACER.html?TocPath=MoGraph%257CAdditional%2520Objects%257CMotion%2520Graphics%2520Tracer%2520Object%257C_____0).
  - [MoSpline](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOSPLINE.html?TocPath=MoGraph%257CAdditional%2520Objects%257CMoSpline%257C_____0).
- - [Motion Graphics Extrude Deformer](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_EXTRUDE.html?TocPath=MoGraph%257CAdditional%2520Objects%257CMotion%2520Graphics%2520Extrude%2520Deformer%257C_____0).
+ - [Motion Graphics Extrude Deformer](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_EXTRUDE.html?TocPath=MoGraph%257CAdditional%2520Objects%257CMotion%2520Graphics%2520Extrude%2520Deformer%257C_____0). Отслеживание траектории движения или объекта. Создание видимых линий (трассеров) по которым двигался объект.
 [PolyFX](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_POLYFX.html?TocPath=MoGraph%257CAdditional%2520Objects%257CPolyFX%257C_____0)
 [MoGraph Selection Tool](https://help.maxon.net/c4d/2023/en-us/Content/html/TOOL_MGSELECT.html?TocPath=MoGraph%257CMoGraph%2520Selection%2520Tool%257C_____0).
 [MoGraph Weight Tool](https://help.maxon.net/c4d/2023/en-us/Content/html/TOOL_MGWEIGHT.html?TocPath=MoGraph%257CMoGraph%2520Weight%2520Tool%257C_____0).
