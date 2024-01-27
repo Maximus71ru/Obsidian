@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Камера.md",
+                "file": "База знаний/Меню тегов.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rigging",
+                "query": "Rail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Камера.md",
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Камера.md",
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Камера.md"
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
               }
             }
           },
@@ -385,14 +385,14 @@
       }
     ]
   },
-  "active": "ed381a4f8199e21a",
+  "active": "59b145deb030c46a",
   "lastOpenFiles": [
-    "База знаний/Rigging Tags.md",
-    "База знаний/Камера.md",
-    "База знаний/Cinema 4D.md",
-    "База знаний/Меню окна Viewport.md",
     "База знаний/Меню тегов.md",
     "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+    "База знаний/Камера.md",
+    "База знаний/Rigging Tags.md",
+    "База знаний/Cinema 4D.md",
+    "База знаний/Меню окна Viewport.md",
     "База знаний/Эффекторы.md",
     "База знаний/3D.md",
     "База знаний/MoGraph.md",
