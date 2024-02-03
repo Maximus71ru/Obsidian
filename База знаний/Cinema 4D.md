@@ -1,8 +1,10 @@
 #Cinema_4D
 [[Интерфейс Cinema 4D]]
+[[Attribute Manager]]
 [[Меню режимов]]
 [[Меню инструменты]]
 [[Меню тегов]]
+[[Select Menu]]
 [[Панель Atributes]]
 [[Конфигурация]]
 [[Меню окна Viewport]]
@@ -10,11 +12,13 @@
 [[Камера]]
 [[Примитивы]]
 [[Рендеринг]]
-[[Меню создание объектов]]
+[[Create Menu - Меню создание объектов]]
 [[Simulate Menu]]
 [[MoGraph]]
 [[Свет Cinema 4D|Свет]]
+[[Material]]
 [[Анимация]]
+[[Курсы Cinema 4D]]
 
 _____
 [Справочник](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/5425.html?TocPath=_____4)

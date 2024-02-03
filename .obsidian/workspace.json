@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed381a4f8199e21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Меню тегов.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11deea7dba23d2d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Rigging Tags.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bc07a78403cbe7bd",
             "type": "leaf",
             "state": {
@@ -45,8 +19,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4861a551a2bfb9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Camera Tags.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b43c84df21372d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Меню режимов.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caab8b416ac7c6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Select Menu.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rail",
+                "query": "Selection Object",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+                "file": "База знаний/Help4d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+                "file": "База знаний/Help4d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
+                "file": "База знаний/Help4d.md"
               }
             }
           },
@@ -227,91 +241,6 @@
     "id": "29d0423b001ce692",
     "type": "floating",
     "children": [
-      {
-        "id": "6326331f84e3a357",
-        "type": "window",
-        "children": [
-          {
-            "id": "9069d1dacfca3c4e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a117cb7b0db640ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Что такое экспозиция.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4e28df325ae12929",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Настройка страницы сайта.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b9df5371d4de1c7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Меню окна Viewport.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "38c38e11440c8bad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Интерфейс Cinema 4D.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "59b145deb030c46a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "vertical",
-        "x": 1588,
-        "y": 2,
-        "width": 970,
-        "height": 1391,
-        "maximize": false,
-        "zoom": 0
-      },
       {
         "id": "58d103f6da3bf662",
         "type": "window",
@@ -382,37 +311,69 @@
         "height": 1019,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "257a92c6c2cfcf2a",
+        "type": "window",
+        "children": [
+          {
+            "id": "12e8e97faa410df7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "13f21ad8280eee56",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "База знаний/Help4d.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1592,
+        "y": 2,
+        "width": 927,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "59b145deb030c46a",
+  "active": "13f21ad8280eee56",
   "lastOpenFiles": [
-    "База знаний/Меню тегов.md",
-    "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
-    "База знаний/Камера.md",
-    "База знаний/Rigging Tags.md",
-    "База знаний/Cinema 4D.md",
-    "База знаний/Меню окна Viewport.md",
-    "База знаний/Эффекторы.md",
-    "База знаний/3D.md",
-    "База знаний/MoGraph.md",
-    "База знаний/Simulate Menu.md",
+    "База знаний/Camera Tags.md",
+    "База знаний/Help4d.md",
     "База знаний/Идеи для роликов.md",
+    "База знаний/Select Menu.md",
     "База знаний/Интерфейс Cinema 4D.md",
+    "База знаний/MoGraph.md",
+    "База знаний/Cinema 4D.md",
     "База знаний/Разбитие объекта на частицы.md",
-    "База знаний/О чем этот блог и для кого.md",
-    "База знаний/Анимация.md",
-    "База знаний/Деформация объекта Деформеры.md",
-    "База знаний/Примитивы и полигоны.md",
-    "База знаний/Курсы Cinema 4D.md",
-    "База знаний/Курсы.md",
-    "База знаний/000_Меню.md",
-    "База знаний/Свет Cinema 4D.md",
-    "База знаний/Меню создание объектов.md",
     "База знаний/Генераторы.md",
-    "База знаний/Сгибание.md",
     "База знаний/Меню инструменты.md",
+    "База знаний/Spline.md",
+    "База знаний/Меню режимов.md",
+    "База знаний/Attribute Manager.md",
+    "База знаний/Меню тегов.md",
+    "База знаний/Панель Objects.md",
     "База знаний/Примитивы.md",
+    "База знаний/Курсы Cinema 4D.md",
+    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
+    "База знаний/Rigging Tags.md",
+    "База знаний/Bullet Dynamics - Динамика, движение.md",
+    "База знаний/Create Menu - Меню создание объектов.md",
+    "База знаний/Супер Cinema 4D (2023).md",
+    "База знаний/О чем этот блог и для кого.md",
+    "База знаний/Material.md",
+    "База знаний/Свет Cinema 4D.md",
+    "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",

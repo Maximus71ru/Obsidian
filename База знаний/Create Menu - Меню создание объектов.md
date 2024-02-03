@@ -7,7 +7,7 @@ ___________
 [Null](https://help.maxon.net/c4d/2023/en-us/Content/html/ONULL.html?TocPath=Create%2520Menu%257CNull%257C_____0).
 [Mesh](https://help.maxon.net/c4d/2023/en-us/Content/html/5179.html?TocPath=Create%2520Menu%257CMesh%257C_____0).
 [Text](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/OMOGRAPH_TEXT.html?TocPath=Create%2520Menu%257CMesh%257CText%257C_____0). Предпочтительнее использовать объемный текст. Он в себе уже содержит сплайн.
-[Spline](https://help.maxon.net/c4d/2023/en-us/Content/html/5420.html?TocPath=Create%2520Menu%257CSpline%257C_____0). Объект на основе сплайна.
+[[Spline]] Объект на основе сплайна.
 [Generators](https://help.maxon.net/c4d/2023/en-us/Content/html/5166.html?TocPath=Create%2520Menu%257CGenerators%257C_____0). [[Генераторы]]
 [Deformer Object](https://help.maxon.net/c4d/2023/en-us/Content/html/5460.html?TocPath=Create%2520Menu%257CDeformer%2520Object%257C_____0). [[Деформация объекта Деформеры]].
 [Field](https://help.maxon.net/c4d/2023/en-us/Content/html/58091.html?TocPath=Create%2520Menu%257CField%257C_____0).

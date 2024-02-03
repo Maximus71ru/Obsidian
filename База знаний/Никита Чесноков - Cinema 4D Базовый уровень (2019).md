@@ -1,4 +1,6 @@
 #Cinema_4D 
+[[Курсы Cinema 4D]]
+____________
 
 1 урок
 2 урок
@@ -51,7 +53,7 @@
 		- Анимация пасты из тюбика (44м. 50с.) 
 			- Emitter (45м. 30с.) 
 			- Tracer (53м. 15с.)
-6 урок
+6 урок - Camera
 	- 1 часть 
 		- Camera (7м. 20с.)
 			- Protection Tag (11м. 50с.)
@@ -66,9 +68,61 @@
 				- Align to Spline (2м. 30с.)
 				- Target (7м. 45с.)
 				- Null объект для управления ориентацией камеры (9м. 15с.)
-				- Rail Path - (12м. 05.)
-				- 
 	- 2 часть
-		- 
-
+		- Rail Path - (12м. 05.)
+		- Motion Camera (18м.)
+		- Camera Crane (28м. 35с.)
+		- Camera Morph (переход между камерами) (32м. 50с.)
+7 урок - Render
+	- 2-я часть
+		- Render Settings 
+			- Standard
+				- Output (9м. 35с.)
+				- Anti-Aliasing (28м.)
+	- 3-я часть
+				- Options (30с.)
+					- Default Light (1м. 20с.)
+				- ..
+				- ..
+			- Phisical (14м. 50с.)
+				- Phisical 
+	- 4-я часть
+		- RedShift (25м. 45с.)
+8-й урок - освещение [[Свет Cinema 4D]]
+	1-я часть
+		- Light - точечный свет.
+			- Spot - (6м.)
+			- Infinite - (9м. 05с.)
+		- Shadow (40м.)
+		- Render 
+			- Standart
+				- Ambient Occlusion (47м. 15с.) Естественные тени.
+		- Visibility Light (49м. 55с.) Видимость источника света
+			- Volumetric (59м. 15с.) (эффектный свет).
+		- Lens (52м. 20с.)
+		- General
+			- no illumination (1ч. 03м. 40с.)
+			- Show Illumination (1ч. 09. 42)
+			- Ambient Illumination
+			- Show Visible Light
+			- Diffuse (1ч. 06м.)
+			- Show Clipping
+			- Specular (1ч. 07м.)
+			- GI Illumination (1ч. 07м. 20с.)
+	- 2-я часть
+		- Caustics (каустика) (1м.)
+		- Noise (18м. 55с.)
+		- Visibility (22м. 30с.)
+		- Details (24м. 25с.)
+		- Project (33м. 35с.)
+9-й урок -
+	- 1-я часть
+		- Импорт векторных файлов (5м. 30с.)
+		- Работа с векторами (12м.)
+		- Multi-Pass (41м. 15с.)
+			- Multi-Pass в After Effekts (45м. 50с.)
+	- 2-я часть
+		- Импорт данных из Cinema 4d в AE (15с.)
+			- Подготовка 3D объекта для редактирования в AE (2м.)
+				- External compositing tag (3м. 10с.)
 
