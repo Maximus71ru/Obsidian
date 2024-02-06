@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Идеи для роликов.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4861a551a2bfb9e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Camera Tags.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b43c84df21372d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Меню режимов.md",
+                "file": "База знаний/Генераторы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,15 +26,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Select Menu.md",
+                "file": "База знаний/Генераторы.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6a49fdc29f8f441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Интерфейс Cinema 4D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Selection Object",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -348,32 +334,32 @@
   },
   "active": "13f21ad8280eee56",
   "lastOpenFiles": [
-    "База знаний/Camera Tags.md",
-    "База знаний/Help4d.md",
-    "База знаний/Идеи для роликов.md",
-    "База знаний/Select Menu.md",
-    "База знаний/Интерфейс Cinema 4D.md",
-    "База знаний/MoGraph.md",
-    "База знаний/Cinema 4D.md",
-    "База знаний/Разбитие объекта на частицы.md",
     "База знаний/Генераторы.md",
+    "База знаний/Help4d.md",
+    "База знаний/Интерфейс Cinema 4D.md",
+    "База знаний/Cinema 4D.md",
+    "База знаний/Create Menu - Меню создание объектов.md",
+    "База знаний/О чем этот блог и для кого.md",
+    "База знаний/Клонирование - Cloner Object.md",
+    "База знаний/MoGraph.md",
+    "База знаний/Select Menu.md",
+    "База знаний/Идеи для роликов.md",
+    "База знаний/Workplane.md",
+    "База знаний/Меню режимов.md",
+    "База знаний/Меню окна Viewport.md",
+    "База знаний/Эффекторы.md",
+    "База знаний/Деформация объекта Деформеры.md",
+    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
+    "База знаний/Camera Tags.md",
+    "База знаний/Разбитие объекта на частицы.md",
     "База знаний/Меню инструменты.md",
     "База знаний/Spline.md",
-    "База знаний/Меню режимов.md",
     "База знаний/Attribute Manager.md",
     "База знаний/Меню тегов.md",
     "База знаний/Панель Objects.md",
     "База знаний/Примитивы.md",
     "База знаний/Курсы Cinema 4D.md",
-    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
     "База знаний/Rigging Tags.md",
-    "База знаний/Bullet Dynamics - Динамика, движение.md",
-    "База знаний/Create Menu - Меню создание объектов.md",
-    "База знаний/Супер Cinema 4D (2023).md",
-    "База знаний/О чем этот блог и для кого.md",
-    "База знаний/Material.md",
-    "База знаний/Свет Cinema 4D.md",
-    "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",

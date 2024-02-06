@@ -5,104 +5,40 @@
       "path": "База знаний/Help4d.md"
     },
     {
-      "basename": "Camera Tags",
-      "path": "База знаний/Camera Tags.md"
-    },
-    {
-      "basename": "Идеи для роликов",
-      "path": "База знаний/Идеи для роликов.md"
-    },
-    {
-      "basename": "Select Menu",
-      "path": "База знаний/Select Menu.md"
+      "basename": "Генераторы",
+      "path": "База знаний/Генераторы.md"
     },
     {
       "basename": "Интерфейс Cinema 4D",
       "path": "База знаний/Интерфейс Cinema 4D.md"
     },
     {
-      "basename": "MoGraph",
-      "path": "База знаний/MoGraph.md"
-    },
-    {
       "basename": "Cinema 4D",
       "path": "База знаний/Cinema 4D.md"
-    },
-    {
-      "basename": "Разбитие объекта на частицы",
-      "path": "База знаний/Разбитие объекта на частицы.md"
-    },
-    {
-      "basename": "Генераторы",
-      "path": "База знаний/Генераторы.md"
-    },
-    {
-      "basename": "Меню инструменты",
-      "path": "База знаний/Меню инструменты.md"
-    },
-    {
-      "basename": "Spline",
-      "path": "База знаний/Spline.md"
-    },
-    {
-      "basename": "Меню режимов",
-      "path": "База знаний/Меню режимов.md"
-    },
-    {
-      "basename": "Attribute Manager",
-      "path": "База знаний/Attribute Manager.md"
-    },
-    {
-      "basename": "Меню тегов",
-      "path": "База знаний/Меню тегов.md"
-    },
-    {
-      "basename": "Панель Objects",
-      "path": "База знаний/Панель Objects.md"
-    },
-    {
-      "basename": "Примитивы",
-      "path": "База знаний/Примитивы.md"
-    },
-    {
-      "basename": "Курсы Cinema 4D",
-      "path": "База знаний/Курсы Cinema 4D.md"
-    },
-    {
-      "basename": "Алексей Брин - Cinema 4D & Redshift",
-      "path": "База знаний/Алексей Брин - Cinema 4D & Redshift.md"
-    },
-    {
-      "basename": "Rigging Tags",
-      "path": "База знаний/Rigging Tags.md"
-    },
-    {
-      "basename": "Bullet Dynamics - Динамика, движение",
-      "path": "База знаний/Bullet Dynamics - Динамика, движение.md"
     },
     {
       "basename": "Create Menu - Меню создание объектов",
       "path": "База знаний/Create Menu - Меню создание объектов.md"
     },
     {
-      "basename": "Супер Cinema 4D (2023)",
-      "path": "База знаний/Супер Cinema 4D (2023).md"
-    },
-    {
       "basename": "О чем этот блог и для кого",
       "path": "База знаний/О чем этот блог и для кого.md"
     },
     {
-      "basename": "Material",
-      "path": "База знаний/Material.md"
+      "basename": "Клонирование - Cloner Object",
+      "path": "База знаний/Клонирование - Cloner Object.md"
     },
     {
-      "basename": "Свет Cinema 4D",
-      "path": "База знаний/Свет Cinema 4D.md"
+      "basename": "MoGraph",
+      "path": "База знаний/MoGraph.md"
     },
     {
-      "basename": "Никита Чесноков - Cinema 4D Базовый уровень (2019)",
-      "path": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
+      "basename": "Select Menu",
+      "path": "База знаний/Select Menu.md"
+    },
+    {
+      "basename": "Идеи для роликов",
+      "path": "База знаний/Идеи для роликов.md"
     }
   ],
   "omittedPaths": [],

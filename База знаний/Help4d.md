@@ -45,4 +45,95 @@ ________
 		- Вычитание (1.00)
 			- Плагин Magic Merge 1.0 (20.00)
 	- 04 - Deformer Base - Деформеры
+		- Bend (5.00)
+		- Smoothing (29.30)
+	- 05 - All Deformer - Примеры и описание всех деформеров. 
+		- Bulge (1.35)
+		- Shear (2.12)
+		- Taper (3.20)
+		- Twist (4.12)
+		- Spherify (4.55)
+		- Bevel (7.10)
+			- Скругление отдельных граней (17.05)
+		- Spline Wrap (20.10)
+		- Spline (22.00)
+		- Spline Rail (23.30)
+		- Displacer (25.00)
+		- Wind (26.50)
+		- Formula (29.05)
+		- Wrap (29.50)
+		- Shrink Wrap (32.20)
+		- Surface (33.40)
+		- FFD (35.15)
+		- Mesh (36.40)
+		- Camera (38.30)
+		- Jiggle (40.10) (имитация ткани).
+		- Melt (47.15)
+		- Shatter (47.45)
+		- Explosion (48.00)
+		- Explosion FX (48.30)
+		- Collision (50.00)
+	- MoGraph
+		- MoExtrude (59.55)
+		- PolyFX (1.01.10)
+	- MoGraph Efector
+		- Plain (1.03.50)
+		- Random (1.04.20)
+		- Delay (1.05.00)
+		- Sound (1.06.10)
+		- Spline (1.07.45)
+		- Shader (1.08.50)
+	- 04 - 0.1 Massive Start
+		- Instance (4.30)
+		- Workplane (14.40)
+		- Symmetry (28.25)
+		- Array (34.45)
+		- Atom Array (41.25)
+	- 04 - 02 - Cloner
+		- Cloner (0.45) (6.00)
+		- Matrix (04.00)
+		- Эффекторы (26.00)
+		- MoGraph Selection (33.45)
+		- Push Apart (47.20)
+	- 04 - 03 - XRef
+		- Создание  леса (1.40)
 		- 
+Base 05 & 06 - Spline (old)
+	- 01 - Intro to Spline
+		- Импорт файла из Adobe Illustrator (14.00)
+		- Edge to Spline (20.20)
+		- Spline Mask (21.40)
+		- Деформеры для Spline (25.00)
+		- Tracer (25.20)
+		- MoSpline (26.40)
+		- Hair (30.00)
+		- Extrude (32.40)
+		- Lathe (35.15)
+		- Sweep (37.20)
+		- Loft (38.45)
+		- Spline Falloff (46.00)
+		- Spline Dinamics (49.50)
+	- 02 - Spline Create & Edit (создание и редактирование сплайнов).
+		- Как можно редактировать Spline (1.30)
+		- Axis Center (23.00)
+		- Создание Spline 
+			- Spline pen (27.30)
+			- Bezier (35.00)
+			- Magnet (41.50)
+			- B-Spline (44.45)
+			- Cubic (48.00)
+			- Akima (49.10)
+			- Sketch (49.50)
+			- Обзор инструментов (ПКМ) (52.40)
+		- 03 - Lathe Glass
+			- Lathe
+		- 04 - Intermediate Points
+			- Настройка Spline Object (3.00)
+		- 05 - Lathe Column
+			- Практическая работа с Spline
+				- FFD (29.05)
+				- Shear (32.35)
+				- Bevel (35.10)
+		- 06 - Level Of Detail - Изменение детализации
+		- 07 - Lathe Bucket
+			
