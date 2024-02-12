@@ -22,7 +22,7 @@ MoGraph предлагает следующие интересные функц�
 
 [Redshift Matrix Scatter](https://help.maxon.net/c4d/2023/en-us/Content/_REDSHIFT_/html/Matrix_Scatter.html?TocPath=MoGraph%257C_____1).
 [Cloner Object](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_CLONER.html?TocPath=MoGraph%257CCloner%2520Object%257C_____0). [[Клонирование - Cloner Object|Клонирование]]. 
--  [Basic Properties](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_CLONER-OBASELIST.html?TocPath=MoGraph%257CCloner%2520Object%257C_____1).
+- [Basic Properties](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_CLONER-OBASELIST.html?TocPath=MoGraph%257CCloner%2520Object%257C_____1).
 - [Coordinates](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_CLONER-ID_BASEOBJECT_GROUP1.html?TocPath=MoGraph%257CCloner%2520Object%257C_____2).
 - [Object Properties](https://help.maxon.net/c4d/2023/en-us/Content/html/OMOGRAPH_CLONER-ID_OBJECTPROPERTIES.html?TocPath=MoGraph%257CCloner%2520Object%257C_____3). 
 	- Reset Coordinates [[Сброс координат]]

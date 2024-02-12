@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Выбор видеокарты",
+      "path": "База знаний/Выбор видеокарты.md"
+    },
+    {
+      "basename": "MoGraph",
+      "path": "База знаний/MoGraph.md"
+    },
+    {
       "basename": "Help4d",
       "path": "База знаний/Help4d.md"
     },
     {
+      "basename": "Идеи для роликов",
+      "path": "База знаний/Идеи для роликов.md"
+    },
+    {
+      "basename": "Клонирование - Cloner Object",
+      "path": "База знаний/Клонирование - Cloner Object.md"
+    },
+    {
+      "basename": "Spline Wrap",
+      "path": "База знаний/Spline Wrap.md"
+    },
+    {
       "basename": "Генераторы",
       "path": "База знаний/Генераторы.md"
+    },
+    {
+      "basename": "О чем этот блог и для кого",
+      "path": "База знаний/О чем этот блог и для кого.md"
+    },
+    {
+      "basename": "Select Menu",
+      "path": "База знаний/Select Menu.md"
+    },
+    {
+      "basename": "Меню инструменты",
+      "path": "База знаний/Меню инструменты.md"
+    },
+    {
+      "basename": "Разбитие объекта на частицы",
+      "path": "База знаний/Разбитие объекта на частицы.md"
     },
     {
       "basename": "Интерфейс Cinema 4D",
@@ -19,26 +55,6 @@
     {
       "basename": "Create Menu - Меню создание объектов",
       "path": "База знаний/Create Menu - Меню создание объектов.md"
-    },
-    {
-      "basename": "О чем этот блог и для кого",
-      "path": "База знаний/О чем этот блог и для кого.md"
-    },
-    {
-      "basename": "Клонирование - Cloner Object",
-      "path": "База знаний/Клонирование - Cloner Object.md"
-    },
-    {
-      "basename": "MoGraph",
-      "path": "База знаний/MoGraph.md"
-    },
-    {
-      "basename": "Select Menu",
-      "path": "База знаний/Select Menu.md"
-    },
-    {
-      "basename": "Идеи для роликов",
-      "path": "База знаний/Идеи для роликов.md"
     }
   ],
   "omittedPaths": [],
