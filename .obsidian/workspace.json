@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Help4d.md",
+                "file": "База знаний/MoGraph.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "видеокарт",
+                "query": "Spline Wrap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Выбор видеокарты.md",
+                "file": "База знаний/Help4d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Выбор видеокарты.md",
+                "file": "База знаний/Help4d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Выбор видеокарты.md"
+                "file": "База знаний/Help4d.md"
               }
             }
           },
@@ -237,51 +236,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ddcd1cc1a5baab48",
+                "id": "638a405e4a75a6dc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "База знаний/О чем этот блог и для кого.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7d02e8e1ab95f85b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Нужно стремиться создавать только отличные кадры.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aec2a0c1b8e7dfe2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Зачем учиться фотографировать.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8a0fb42ee0846da9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Какие фотографии нужны для социальных сетей.md",
+                    "file": "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -333,34 +293,34 @@
       }
     ]
   },
-  "active": "caab8b416ac7c6a8",
+  "active": "13f21ad8280eee56",
   "lastOpenFiles": [
     "База знаний/MoGraph.md",
-    "База знаний/Help4d.md",
-    "База знаний/Идеи для роликов.md",
+    "База знаний/Деформация объекта Деформеры.md",
     "База знаний/Клонирование - Cloner Object.md",
-    "База знаний/Spline Wrap.md",
     "База знаний/Генераторы.md",
+    "База знаний/Help4d.md",
+    "База знаний/Курсы Cinema 4D.md",
+    "База знаний/Алексей Брин] Cinema 4D Animation (2023)_Нов.md",
+    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
+    "База знаний/Какие фотографии нужны для социальных сетей.md",
+    "База знаний/Зачем учиться фотографировать.md",
+    "Нужно стремиться создавать только отличные кадры.md",
+    "База знаний/Cinema 4D.md",
+    "База знаний/Выбор видеокарты.md",
+    "База знаний/Идеи для роликов.md",
+    "База знаний/Spline Wrap.md",
     "База знаний/О чем этот блог и для кого.md",
     "База знаний/Select Menu.md",
     "База знаний/Меню инструменты.md",
     "База знаний/Разбитие объекта на частицы.md",
     "База знаний/Интерфейс Cinema 4D.md",
-    "База знаний/Cinema 4D.md",
     "База знаний/Create Menu - Меню создание объектов.md",
     "База знаний/Workplane.md",
     "База знаний/Меню режимов.md",
     "База знаний/Меню окна Viewport.md",
     "База знаний/Эффекторы.md",
-    "База знаний/Деформация объекта Деформеры.md",
-    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
     "База знаний/Camera Tags.md",
-    "База знаний/Spline.md",
-    "База знаний/Attribute Manager.md",
-    "База знаний/Меню тегов.md",
-    "База знаний/Панель Objects.md",
-    "База знаний/Примитивы.md",
-    "База знаний/Курсы Cinema 4D.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
