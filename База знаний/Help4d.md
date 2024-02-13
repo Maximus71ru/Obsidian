@@ -197,7 +197,13 @@ Base 05 & 06 - Spline (old)
 				- Spline Wrap - Изгиб цепи по траектории (34.30)
 				- Spline Dinamics (37.20) (Цепь в динамике)
 		- 14 - Sweep + Formula (Создание ткани)
-			- Formula (0.30) (Сильно отличается от нового)
+			- Formula (0.30) (25.00) (Сильно отличается от нового)
 			- Создание ткани (2.00)
 			- Деформация ткани (17.00)
-			- 
+		- 15 - Sweep Table - Модель стола
+			- Sweep (5.00) Настройка профиля
+		- 16 - Spline Modeling Architecture - Модель арки
+		- 17 - Spline Modeling Final + Loft
+			- Создание звезды (11.00)
+		- 18 - Shureshka
+		

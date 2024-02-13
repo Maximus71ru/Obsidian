@@ -5,6 +5,18 @@
       "path": "База знаний/Help4d.md"
     },
     {
+      "basename": "Генераторы",
+      "path": "База знаний/Генераторы.md"
+    },
+    {
+      "basename": "Sweep",
+      "path": "База знаний/Sweep.md"
+    },
+    {
+      "basename": "AE_Эффекты",
+      "path": "База знаний/AE_Эффекты.md"
+    },
+    {
       "basename": "MoGraph",
       "path": "База знаний/MoGraph.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Клонирование - Cloner Object",
       "path": "База знаний/Клонирование - Cloner Object.md"
-    },
-    {
-      "basename": "Генераторы",
-      "path": "База знаний/Генераторы.md"
     },
     {
       "basename": "Курсы Cinema 4D",
