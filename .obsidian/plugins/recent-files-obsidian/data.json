@@ -5,8 +5,32 @@
       "path": "База знаний/Help4d.md"
     },
     {
+      "basename": "Словарь",
+      "path": "База знаний/Словарь.md"
+    },
+    {
       "basename": "Генераторы",
       "path": "База знаний/Генераторы.md"
+    },
+    {
+      "basename": "Выбор видеокарты",
+      "path": "База знаний/Выбор видеокарты.md"
+    },
+    {
+      "basename": "Cinema 4D",
+      "path": "База знаний/Cinema 4D.md"
+    },
+    {
+      "basename": "Интерфейс Cinema 4D",
+      "path": "База знаний/Интерфейс Cinema 4D.md"
+    },
+    {
+      "basename": "Алексей Брин - Cinema 4D & Redshift",
+      "path": "База знаний/Алексей Брин - Cinema 4D & Redshift.md"
+    },
+    {
+      "basename": "Переходы",
+      "path": "База знаний/Переходы.md"
     }
   ],
   "omittedPaths": [],

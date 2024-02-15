@@ -19,7 +19,7 @@
 [[Material]]
 [[Анимация]]
 [[Курсы Cinema 4D]]
-
+[[Словарь]]
 _____
 [Справочник](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/5425.html?TocPath=_____4)
 
