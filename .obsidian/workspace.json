@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc07a78403cbe7bd",
+            "id": "c02be4ade6667d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Генераторы.md",
+                "file": "База знаний/Супер Cinema 4D (2023).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "c6a49fdc29f8f441",
+            "id": "19b50530fa07d0eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Split",
+                "query": "Outline Selection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Help4d.md",
+                "file": "База знаний/Супер Cinema 4D (2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Help4d.md",
+                "file": "База знаний/Супер Cinema 4D (2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Help4d.md"
+                "file": "База знаний/Супер Cinema 4D (2023).md"
               }
             }
           },
@@ -242,7 +242,7 @@
         "x": 2562,
         "y": 0,
         "width": 978,
-        "height": 1019,
+        "height": 1037,
         "maximize": false,
         "zoom": 0
       },
@@ -260,7 +260,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "База знаний/Help4d.md",
+                    "file": "База знаний/Алексей Брин - Создание ролика (2023).md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -280,34 +280,34 @@
       }
     ]
   },
-  "active": "13f21ad8280eee56",
+  "active": "c02be4ade6667d88",
   "lastOpenFiles": [
-    "База знаний/Генераторы.md",
-    "База знаний/Help4d.md",
-    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
     "База знаний/Словарь.md",
+    "База знаний/Супер Cinema 4D (2023).md",
+    "База знаний/Курсы Cinema 4D.md",
     "База знаний/Выбор видеокарты.md",
+    "База знаний/Алексей Брин - Создание ролика (2023).md",
+    "База знаний/Help4d.md",
+    "База знаний/Select Menu.md",
+    "База знаний/Хохлов Сабатовский - Моушн-дизайну в Cinema 4D.md",
+    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
+    "База знаний/Алексей Брин] Cinema 4D Animation (2023)_Нов.md",
     "База знаний/Cinema 4D.md",
+    "База знаний/HestiaCP.md",
+    "База знаний/MoGraph.md",
+    "База знаний/Разбитие объекта на частицы.md",
+    "База знаний/AE_After Effects.md",
     "База знаний/Интерфейс Cinema 4D.md",
+    "База знаний/Тех задание дизайнеру 1.md",
+    "База знаний/Генераторы.md",
     "База знаний/Переходы.md",
     "База знаний/Sweep.md",
     "База знаний/AE_Эффекты.md",
-    "База знаний/MoGraph.md",
     "База знаний/Деформация объекта Деформеры.md",
     "База знаний/Клонирование - Cloner Object.md",
-    "База знаний/Курсы Cinema 4D.md",
-    "База знаний/Алексей Брин] Cinema 4D Animation (2023)_Нов.md",
     "База знаний/Какие фотографии нужны для социальных сетей.md",
     "База знаний/Зачем учиться фотографировать.md",
     "Нужно стремиться создавать только отличные кадры.md",
-    "База знаний/Идеи для роликов.md",
-    "База знаний/Spline Wrap.md",
-    "База знаний/О чем этот блог и для кого.md",
-    "База знаний/Select Menu.md",
-    "База знаний/Меню инструменты.md",
-    "База знаний/Разбитие объекта на частицы.md",
-    "База знаний/Create Menu - Меню создание объектов.md",
-    "База знаний/Workplane.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",

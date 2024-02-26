@@ -180,10 +180,12 @@ https://www.fontsquirrel.com/
 https://www.dafont.com/
 https://fonts.google.com/
 
-Вектора:
+Вектора, референсы 3D:
 https://ru.freepik.com/
 3D модели: https://archive3d.net/
 3D модели: https://sketchfab.com/feed
+3D модели: https://www.turbosquid.com/
+3D модели: https://www.cgtrader.com/
 
 Примеры, образцы, идеи:
 pinterest
