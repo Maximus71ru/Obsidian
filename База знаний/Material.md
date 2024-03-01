@@ -3,6 +3,9 @@
 _____________
 [Material](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/MMATERIAL.html?TocPath=Material%2520Manager%257CMaterial%257C_____0).
 
+[[Ноды]]
+
+
 Base Properties
 	- Base
 	- Reflection (Отражение)

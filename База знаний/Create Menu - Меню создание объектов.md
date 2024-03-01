@@ -10,7 +10,7 @@ ___________
 [[Spline]] Объект на основе сплайна.
 [Generators](https://help.maxon.net/c4d/2023/en-us/Content/html/5166.html?TocPath=Create%2520Menu%257CGenerators%257C_____0). [[Генераторы]]
 [Deformer Object](https://help.maxon.net/c4d/2023/en-us/Content/html/5460.html?TocPath=Create%2520Menu%257CDeformer%2520Object%257C_____0). [[Деформация объекта Деформеры]].
-[Field](https://help.maxon.net/c4d/2023/en-us/Content/html/58091.html?TocPath=Create%2520Menu%257CField%257C_____0).
+[[Field - Поле]]
 [Environment](https://help.maxon.net/c4d/2023/en-us/Content/html/5451.html?TocPath=Create%2520Menu%257CEnvironment%257C_____0).
 [Redshift Camera](https://help.maxon.net/c4d/2023/en-us/Content/html/ORSCAMERA.html?TocPath=Create%2520Menu%257CRedshift%2520Camera%257C_____0).
 [Camera Object](https://help.maxon.net/c4d/2023/en-us/Content/html/OCAMERA.html?TocPath=Create%2520Menu%257CCamera%2520Object%257C_____0).
