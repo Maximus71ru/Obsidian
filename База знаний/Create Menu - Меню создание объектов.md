@@ -4,7 +4,7 @@ ___________
 [Create Menu](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/5177.html?TocPath=Create%2520Menu%257C_____0)
 
 
-[Null](https://help.maxon.net/c4d/2023/en-us/Content/html/ONULL.html?TocPath=Create%2520Menu%257CNull%257C_____0).
+[Null](https://help.maxon.net/c4d/2023/en-us/Content/html/ONULL.html?TocPath=Create%2520Menu%257CNull%257C_____0). (Alt+G)
 [Mesh](https://help.maxon.net/c4d/2023/en-us/Content/html/5179.html?TocPath=Create%2520Menu%257CMesh%257C_____0).
 [Text](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/OMOGRAPH_TEXT.html?TocPath=Create%2520Menu%257CMesh%257CText%257C_____0). Предпочтительнее использовать объемный текст. Он в себе уже содержит сплайн.
 [[Spline]] Объект на основе сплайна.
