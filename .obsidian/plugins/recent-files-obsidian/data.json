@@ -9,6 +9,10 @@
       "path": "Шаблоны/Шаблоны цветов.md"
     },
     {
+      "basename": "Select Menu",
+      "path": "База знаний/Select Menu.md"
+    },
+    {
       "basename": "Как рождается фотография",
       "path": "Как рождается фотография.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Супер Cinema 4D PRO",
       "path": "База знаний/Супер Cinema 4D PRO.md"
-    },
-    {
-      "basename": "Select Menu",
-      "path": "База знаний/Select Menu.md"
     }
   ],
   "omittedPaths": [],
