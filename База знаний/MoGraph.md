@@ -43,3 +43,5 @@ MoGraph предлагает следующие интересные функц�
 [Clone Tools](https://help.maxon.net/c4d/2023/en-us/Content/html/7451.html?TocPath=MoGraph%257CClone%2520Tools%257C_____0).
 [Shaders](https://help.maxon.net/c4d/2023/en-us/Content/html/7452.html?TocPath=MoGraph%257CShaders%257C_____0).
 [MoGraph Nodes](https://help.maxon.net/c4d/2023/en-us/Content/html/7453.html?TocPath=MoGraph%257CMoGraph%2520Nodes%257C_____0).
+
+

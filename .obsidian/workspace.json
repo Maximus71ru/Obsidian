@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Select Menu.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19b50530fa07d0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Словарь.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26b9f5c1181dc768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Интерфейс Cinema 4D.md",
+                "file": "База знаний/Help4d.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Анимация.md",
+                "file": "База знаний/Моделирование в Cinema 4D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,12 +34,12 @@
             }
           },
           {
-            "id": "ba9c42b2322ff063",
+            "id": "85ef3d3629f42933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Шаблоны цветов.md",
+                "file": "База знаний/Help4d.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "шаблон",
+                "query": "Connect point Edges",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сценарий видео как рождается фотография.md",
+                "file": "База знаний/Help4d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сценарий видео как рождается фотография.md",
+                "file": "База знаний/Help4d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сценарий видео как рождается фотография.md"
+                "file": "База знаний/Help4d.md"
               }
             }
           },
@@ -301,8 +275,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -315,34 +288,34 @@
       }
     ]
   },
-  "active": "8b3d02330d99efea",
+  "active": "85ef3d3629f42933",
   "lastOpenFiles": [
-    "Шаблоны/Шаблоны цветов.md",
-    "База знаний/Select Menu.md",
-    "Сценарий видео как рождается фотография.md",
-    "Как рождается фотография.md",
-    "Шаблон записи.md",
-    "База знаний/Анимация.md",
-    "Видеоролики.md",
-    "База знаний/Ноды.md",
-    "База знаний/Animation.md",
     "База знаний/Супер Cinema 4D PRO.md",
-    "Удалить.md",
-    "База знаний/Cinema 4D.md",
-    "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
-    "База знаний/Панель Objects.md",
-    "База знаний/Reverse Sequence.md",
-    "База знаний/Sweep.md",
-    "База знаний/Field - Поле.md",
-    "База знаний/Create Menu - Меню создание объектов.md",
-    "База знаний/Эффекторы.md",
     "База знаний/Help4d.md",
-    "База знаний/Fracture.md",
-    "База знаний/Разбитие объекта на частицы.md",
+    "База знаний/Ноды.md",
+    "База знаний/Моделирование в Cinema 4D.md",
+    "База знаний/Select Menu.md",
+    "База знаний/Супер Cinema 4D (2023).md",
+    "База знаний/Cinema 4D.md",
     "База знаний/MoGraph.md",
-    "База знаний/Интерфейс Cinema 4D.md",
     "База знаний/Курсы Cinema 4D.md",
-    "База знаний/Генераторы.md",
+    "База знаний/Меню тегов.md",
+    "База знаний/Интерфейс Cinema 4D.md",
+    "Как рождается фотография.md",
+    "Сценарий видео как рождается фотография.md",
+    "Упражнения.md",
+    "База знаний/Анимация.md",
+    "База знаний/Rigging Tags.md",
+    "База знаний/Spline Wrap.md",
+    "База знаний/Spline.md",
+    "База знаний/AE_After Effects.md",
+    "База знаний/Тех задание дизайнеру 1.md",
+    "База знаний/Референсы.md",
+    "База знаний/Контент.md",
+    "База знаний/Бренд.md",
+    "База знаний/Алексей Брин - Создание ролика (2023).md",
+    "База знаний/Алгоритм работы над проектом в AE.md",
+    "База знаний/Алгоритм подготовки к фотосъемке интерьера.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
