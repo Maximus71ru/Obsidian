@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Connect point Edges",
+                "query": "Edge Cut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -274,8 +274,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c7b66415a9f55ff8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "База знаний/Словарь.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -290,9 +304,11 @@
   },
   "active": "85ef3d3629f42933",
   "lastOpenFiles": [
-    "База знаний/Супер Cinema 4D PRO.md",
+    "База знаний/Словарь.md",
     "База знаний/Help4d.md",
     "База знаний/Ноды.md",
+    "Без названия 1.md",
+    "База знаний/Супер Cinema 4D PRO.md",
     "База знаний/Моделирование в Cinema 4D.md",
     "База знаний/Select Menu.md",
     "База знаний/Супер Cinema 4D (2023).md",
@@ -314,8 +330,6 @@
     "База знаний/Контент.md",
     "База знаний/Бренд.md",
     "База знаний/Алексей Брин - Создание ролика (2023).md",
-    "База знаний/Алгоритм работы над проектом в AE.md",
-    "База знаний/Алгоритм подготовки к фотосъемке интерьера.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",

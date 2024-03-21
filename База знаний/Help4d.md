@@ -435,7 +435,16 @@ ________
 		- Bevel (17.00)
 		- Connect point / Edges (21.30) Деление сплайна (грани) пополам (точкой)
 		- Path Selection (21.30)
-25 мин
+		- Edge Cut (25.40) деление грани на сегменты (команда Apply)
+		- Soft Selection (37.35)
+		- Bulge (38.50) Расширение или сужение объектов
+		- FFD (39.50) 
+		- Set Vertex Weight / Vertex Map (42.25)
+		- Bend (46.00)
+		- 
+
+49 мин.
+
 
 
 

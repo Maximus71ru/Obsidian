@@ -5,12 +5,16 @@
       "path": "База знаний/Help4d.md"
     },
     {
-      "basename": "Супер Cinema 4D PRO",
-      "path": "База знаний/Супер Cinema 4D PRO.md"
+      "basename": "Словарь",
+      "path": "База знаний/Словарь.md"
     },
     {
       "basename": "Ноды",
       "path": "База знаний/Ноды.md"
+    },
+    {
+      "basename": "Супер Cinema 4D PRO",
+      "path": "База знаний/Супер Cinema 4D PRO.md"
     },
     {
       "basename": "Моделирование в Cinema 4D",
@@ -103,10 +107,6 @@
     {
       "basename": "Шаблоны цветов",
       "path": "Шаблоны/Шаблоны цветов.md"
-    },
-    {
-      "basename": "Словарь",
-      "path": "База знаний/Словарь.md"
     },
     {
       "basename": "Ресурсы бесплатных фото",
