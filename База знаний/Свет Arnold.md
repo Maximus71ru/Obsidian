@@ -1,0 +1,47 @@
+#Cinema_4D 
+[[Свет Cinema 4D]]
+_____________
+Arnold Light (Типы источников):
+ - Cylinder
+ - Disk
+ - Distant
+ - Mesh
+	 - Light visible (видимость света)
+	 - Custom visible intensiity (Управление интенсивности света не зависимо от реальных настроек)
+ - Photometric
+ - Point
+ - Quar
+ - Skydome
+ - Spot (Прожектор)
+	 - Cone angle - угол луча (ширина)
+	 - Penumbra angle - жесткость света (размер области, в которой происходит угасание света)
+	 - Aspect ratio (соотношение сторон. 1 - равное соотношение, круг. уменьшение - овал.)
+	 - Drop off - интенсивность в центре источника относительно краев
+	 - Radius - Радиус источника света. Увеличение делает свет мягче. Уменьшение жестче.
+	 - Lens radius - Радиус линзы.
+	 - Roundness - округлость источника. 1 - круг. 0 - квадрат.
+ - Light portal
+ - Light Manager
+ 
+
+
+Basic
+Coordinates
+Light
+Main
+	- Color (цвет)
+	- Look at (Объект направления)
+	- Samples (Количество проходов, качество). Как правило, не более 4-х.
+	- Roundness (Закругленность углов)
+	- Spread (Фокусировка света)
+	- Normalize (Зависимость интенсивности света от размеров источника)
+	- Cast shadows (Отбрасывание теней)
+	- Shadow density (Интенсивность теней)
+	- Shadow color (Цвет теней)
+	- Cast volumetric shadows (тени в атмосфере)
+	- Camera (Видимость источника света для камеры)
+	- Diffuse (Влияние света на отражение)
+	- Transmission (видимость света через прозрачные элементы)
+Details
+	- Use color temperature (цветовая температура)
+Project

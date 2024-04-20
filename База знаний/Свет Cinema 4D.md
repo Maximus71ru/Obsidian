@@ -1,10 +1,9 @@
 #Cinema_4D 
 [[Cinema 4D]]
 _______________
+[[Свет Arnold]]
 
 ![](https://help.maxon.net/c4d/2024/en-us/Content/Resources/Images/icons/PLUGIN_CMD_5102.png)Light (Свет)
-	- 
-    
 ![](https://help.maxon.net/c4d/2024/en-us/Content/Resources/Images/icons/PLUGIN_CMD_202536.png)Spot Light (прожектор)
 
 ![](https://help.maxon.net/c4d/2024/en-us/Content/Resources/Images/icons/PLUGIN_CMD_202537.png)Area Light (зона света)
