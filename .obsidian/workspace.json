@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Полное введение в Arnold 6 для Cinema 4D.md",
+                "file": "База знаний/Свет Arnold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Полное введение в Arnold 6 для Cinema 4D.md",
+                "file": "База знаний/Свет Arnold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Полное введение в Arnold 6 для Cinema 4D.md"
+                "file": "База знаний/Свет Arnold.md"
               }
             }
           },
@@ -301,13 +301,13 @@
       }
     ]
   },
-  "active": "5d163d542cbde323",
+  "active": "85ef3d3629f42933",
   "lastOpenFiles": [
-    "База знаний/Курсы Cinema 4D.md",
     "База знаний/Полное введение в Arnold 6 для Cinema 4D.md",
+    "База знаний/Свет Arnold.md",
+    "База знаний/Курсы Cinema 4D.md",
     "База знаний/Cinema 4D.md",
     "База знаний/Свет Cinema 4D.md",
-    "База знаний/Свет Arnold.md",
     "База знаний/Словарь.md",
     "База знаний/Выбор видеокарты.md",
     "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
