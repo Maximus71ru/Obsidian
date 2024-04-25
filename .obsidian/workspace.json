@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Свет Arnold.md",
+                "file": "База знаний/Shader.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Полное введение в Arnold 6 для Cinema 4D.md",
+                "file": "База знаний/Рендеринг.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Свет Arnold.md",
+                "file": "База знаний/Shader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Свет Arnold.md",
+                "file": "База знаний/Shader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Свет Arnold.md"
+                "file": "База знаний/Shader.md"
               }
             }
           },
@@ -255,47 +255,35 @@
                 "state": {
                   "type": "markdown",
                   "state": {
+                    "file": "База знаний/Cinema 4D.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "07defb144f72c069",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
                     "file": "База знаний/Словарь.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "25a5865ba084221a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Как рождается фотография.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8b3d02330d99efea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Сценарий видео как рождается фотография.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": 2569,
         "y": 12,
         "width": 1027,
-        "height": 800,
+        "height": 1022,
         "maximize": false,
         "zoom": 0
       }
@@ -303,12 +291,18 @@
   },
   "active": "85ef3d3629f42933",
   "lastOpenFiles": [
-    "База знаний/Полное введение в Arnold 6 для Cinema 4D.md",
+    "База знаний/Словарь.md",
+    "База знаний/Shader.md",
+    "База знаний/Cinema 4D.md",
+    "Как рождается фотография.md",
+    "Сценарий видео как рождается фотография.md",
+    "База знаний/Arnold.md",
+    "База знаний/Рендеринг.md",
+    "База знаний/Фильтры Arnold.md",
     "База знаний/Свет Arnold.md",
     "База знаний/Курсы Cinema 4D.md",
-    "База знаний/Cinema 4D.md",
+    "База знаний/Полное введение в Arnold 6 для Cinema 4D.md",
     "База знаний/Свет Cinema 4D.md",
-    "База знаний/Словарь.md",
     "База знаний/Выбор видеокарты.md",
     "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
     "База знаний/Cinema 4D Продвинутый уровень.md",
@@ -323,12 +317,6 @@
     "База знаний/Алексей Брин - Cinema 4D & Redshift.md",
     "База знаний/MoGraph.md",
     "База знаний/AutoCAD Базовый уровень.md",
-    "Как рождается фотография.md",
-    "База знаний/Курсы Autocad.md",
-    "База знаний/HestiaCP.md",
-    "База знаний/Ноды.md",
-    "База знаний/Моделирование в Cinema 4D.md",
-    "Без названия 1.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
