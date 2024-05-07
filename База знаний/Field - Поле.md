@@ -6,6 +6,7 @@ ____________
 - Solid - 
 - Clamp - модифицирующие слои
 
+Linear Field (Форма поля):
 [Linear Field](https://help.maxon.net/c4d/2023/en-us/Content/html/FLINEAR.html?TocPath=Create%2520Menu%257CField%257CField%2520Objects%257CLinear%2520Field%257C_____0).
 [Radial Field](https://help.maxon.net/c4d/2023/en-us/Content/html/FRADIAL.html?TocPath=Create%2520Menu%257CField%257CField%2520Objects%257CRadial%2520Field%257C_____0).
 [Spherical Field](https://help.maxon.net/c4d/2023/en-us/Content/html/FSPHERE.html?TocPath=Create%2520Menu%257CField%257CField%2520Objects%257CSpherical%2520Field%257C_____0).
@@ -23,7 +24,7 @@ ____________
 
 
 
-
+Clamp (Модифицирующие слои):
 [[Decay]]  Разложение
 [Range Map](https://help.maxon.net/c4d/2023/en-us/Content/html/FLRANGEMAP.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CRange%2520Map%257C_____0).
 [Clamp](https://help.maxon.net/c4d/2023/en-us/Content/html/FLCLAMP.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CClamp%257C_____0).
@@ -31,10 +32,13 @@ ____________
 [Freeze](https://help.maxon.net/c4d/2023/en-us/Content/html/FLPROXIMITY.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CFreeze%257C_____0).
 [Color Filter](https://help.maxon.net/c4d/2023/en-us/Content/html/FLCOLORIZE.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CColor%2520Filter%257C_____0).
 [Formula](https://help.maxon.net/c4d/2023/en-us/Content/html/FLFORMULA.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CFormula%257C_____0).
-[Invert](https://help.maxon.net/c4d/2023/en-us/Content/html/FLINVERT.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257C_____8).
+[Invert](https://help.maxon.net/c4d/2023/en-us/Content/html/FLINVERT.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257C_____8). - Инвертирование;
 [Curve](https://help.maxon.net/c4d/2023/en-us/Content/html/FLCURVE.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CCurve%257C_____0).
 [Noise remap](https://help.maxon.net/c4d/2023/en-us/Content/html/FLNOISE.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CNoise%2520remap%257C_____0).
 [Python](https://help.maxon.net/c4d/2023/en-us/Content/html/FLPYTHON.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CPython%257C_____0).
 [Quantize](https://help.maxon.net/c4d/2023/en-us/Content/html/FLQUANTIZE.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CQuantize%257C_____0).
 [Remap](https://help.maxon.net/c4d/2023/en-us/Content/html/FLREMAP.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257C_____13).
 [Delay](https://help.maxon.net/c4d/2023/en-us/Content/html/FLDELAY.html?TocPath=Create%2520Menu%257CField%257CModifier%2520Layers%257CDelay%257C_____0).
+
+Remapping - Перераспределение величин внутри поля
+Blending - режим смешивания (совмещения) разных полей.

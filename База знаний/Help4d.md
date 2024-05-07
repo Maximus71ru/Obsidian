@@ -77,8 +77,8 @@ ________
 		- MoExtrude (59.55)
 		- PolyFX (1.01.10)
 	- MoGraph Efector
-		- Plain (1.03.50)
-		- Random (1.04.20)
+		- [[Plain]] (1.03.50)
+		- [[Random]] (1.04.20)
 		- Delay (1.05.00)
 		- Sound (1.06.10)
 		- Spline (1.07.45)

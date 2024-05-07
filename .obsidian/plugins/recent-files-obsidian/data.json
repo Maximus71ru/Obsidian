@@ -1,64 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Shader",
-      "path": "База знаний/Shader.md"
+      "basename": "Multi-Pass",
+      "path": "База знаний/Multi-Pass.md"
     },
     {
       "basename": "Словарь",
       "path": "База знаний/Словарь.md"
     },
     {
-      "basename": "Cinema 4D",
-      "path": "База знаний/Cinema 4D.md"
-    },
-    {
-      "basename": "Как рождается фотография",
-      "path": "Как рождается фотография.md"
-    },
-    {
-      "basename": "Сценарий видео как рождается фотография",
-      "path": "Сценарий видео как рождается фотография.md"
-    },
-    {
-      "basename": "Arnold",
-      "path": "База знаний/Arnold.md"
-    },
-    {
-      "basename": "Рендеринг",
-      "path": "База знаний/Рендеринг.md"
-    },
-    {
-      "basename": "Фильтры Arnold",
-      "path": "База знаний/Фильтры Arnold.md"
-    },
-    {
-      "basename": "Свет Arnold",
-      "path": "База знаний/Свет Arnold.md"
-    },
-    {
-      "basename": "Курсы Cinema 4D",
-      "path": "База знаний/Курсы Cinema 4D.md"
-    },
-    {
-      "basename": "Полное введение в Arnold 6 для Cinema 4D",
-      "path": "База знаний/Полное введение в Arnold 6 для Cinema 4D.md"
-    },
-    {
-      "basename": "Свет Cinema 4D",
-      "path": "База знаний/Свет Cinema 4D.md"
-    },
-    {
-      "basename": "Выбор видеокарты",
-      "path": "База знаний/Выбор видеокарты.md"
+      "basename": "Shader",
+      "path": "База знаний/Shader.md"
     },
     {
       "basename": "Никита Чесноков - Cinema 4D Базовый уровень (2019)",
       "path": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
     },
     {
-      "basename": "Cinema 4D Продвинутый уровень",
-      "path": "База знаний/Cinema 4D Продвинутый уровень.md"
+      "basename": "Field - Поле",
+      "path": "База знаний/Field - Поле.md"
     },
     {
       "basename": "Меню режимов",
@@ -69,36 +29,104 @@
       "path": "База знаний/AutoCAD Базовый уровень.md"
     },
     {
+      "basename": "Plain",
+      "path": "База знаний/Plain.md"
+    },
+    {
+      "basename": "Без названия 1",
+      "path": "Без названия 1.md"
+    },
+    {
       "basename": "Help4d",
       "path": "База знаний/Help4d.md"
     },
     {
-      "basename": "Курсы",
-      "path": "База знаний/Курсы.md"
+      "basename": "Эффекторы",
+      "path": "База знаний/Эффекторы.md"
     },
     {
-      "basename": "000_Меню",
-      "path": "База знаний/000_Меню.md"
+      "basename": "Запрос для коррекции и исправления",
+      "path": "База знаний/Запрос для коррекции и исправления.md"
     },
     {
-      "basename": "Attribute Manager",
-      "path": "База знаний/Attribute Manager.md"
+      "basename": "Контент маркетинг в ChatGPT",
+      "path": "База знаний/Контент маркетинг в ChatGPT.md"
     },
     {
-      "basename": "Меню инструменты",
-      "path": "База знаний/Меню инструменты.md"
+      "basename": "Супер Cinema 4D PRO",
+      "path": "База знаний/Супер Cinema 4D PRO.md"
+    },
+    {
+      "basename": "Клонирование - Cloner Object",
+      "path": "База знаний/Клонирование - Cloner Object.md"
     },
     {
       "basename": "Генераторы",
       "path": "База знаний/Генераторы.md"
     },
     {
-      "basename": "Алексей Брин - Cinema 4D & Redshift",
-      "path": "База знаний/Алексей Брин - Cinema 4D & Redshift.md"
+      "basename": "Супер Cinema 4D (2023)",
+      "path": "База знаний/Супер Cinema 4D (2023).md"
+    },
+    {
+      "basename": "Запрос - подсказка -- как нужно составить promt",
+      "path": "База знаний/Запрос - подсказка -- как нужно составить promt.md"
+    },
+    {
+      "basename": "Random",
+      "path": "База знаний/Random.md"
+    },
+    {
+      "basename": "Wiggly",
+      "path": "База знаний/Wiggly.md"
+    },
+    {
+      "basename": "Меню инструменты",
+      "path": "База знаний/Меню инструменты.md"
+    },
+    {
+      "basename": "Animator",
+      "path": "База знаний/Animator.md"
+    },
+    {
+      "basename": "Cinema 4D Продвинутый уровень",
+      "path": "База знаний/Cinema 4D Продвинутый уровень.md"
+    },
+    {
+      "basename": "Меню тегов",
+      "path": "База знаний/Меню тегов.md"
+    },
+    {
+      "basename": "Запросы (Promt) для ChatGPT",
+      "path": "База знаний/Запросы (Promt) для ChatGPT.md"
     },
     {
       "basename": "MoGraph",
       "path": "База знаний/MoGraph.md"
+    },
+    {
+      "basename": "Cinema 4D",
+      "path": "База знаний/Cinema 4D.md"
+    },
+    {
+      "basename": "Рендеринг",
+      "path": "База знаний/Рендеринг.md"
+    },
+    {
+      "basename": "Arnold",
+      "path": "База знаний/Arnold.md"
+    },
+    {
+      "basename": "Настройка цвета",
+      "path": "База знаний/Настройка цвета.md"
+    },
+    {
+      "basename": "Курсы Cinema 4D",
+      "path": "База знаний/Курсы Cinema 4D.md"
+    },
+    {
+      "basename": "Интерфейс Cinema 4D",
+      "path": "База знаний/Интерфейс Cinema 4D.md"
     }
   ],
   "omittedPaths": [],

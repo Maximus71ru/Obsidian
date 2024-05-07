@@ -30,7 +30,7 @@ _________
 		- Fill Selection (3.45)
 		- Voronoi Fracture (4.40)
 		- Matrix (5.10)
-		- Анимация через Plain (5.50)
+		- Анимация через [[Plain]] (5.50)
 			- Поле Radial Field (7.00) Анимация по кругу
 		- Анимация вариант 2 (10.10)
 			- Automatic Mode (15.25)
