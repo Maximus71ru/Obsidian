@@ -109,3 +109,7 @@ subdivision renderer - что это?
 
 Перенос инструмента на основной экран:
 Windiw/Customization/Customize Commands.../Edit Palletes (+) (Временно, для переноса инструмента). Отсоединить меню от основного, перенести нужный инструмент на в
+
+
+Переименованные инструменты:
+External Compositing - Cineware

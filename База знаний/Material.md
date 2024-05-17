@@ -5,6 +5,37 @@ _____________
 
 [[Ноды]]
 
+Стандартный материал
+- Color (цвет)
+- Diffusion (Размытие)
+- Luminance (Свечение)
+- Transparency (Прозрачность)
+	- Additive (Смешивание цветов)
+- Reflectance (Отражение)
+	- Type (Тип отражения)
+		- Beckmann 
+	- Attenuation (Затухание (Тип отражения)
+		- Additive (Без затемнения)
+		- Metall (С затемнением)
+	- Raughness (Размытость)
+	- Width (Ширина отражения (блика))
+	- Falloff (Затухание)
+	- Inner Width (ширина внутреннего блика)
+	- Specular Strength (Сила отражения)
+	- Bump Strength ()
+	- Separate Pass (Вывод отражения в отдельный канал)
+	- Layer Color (Цвет блика, отражения)
+		- Color (Цвет)
+		- Brightness (Переход, смешивание)
+		- Texture (Текстура)
+	- Layer Mask (Маска для отражения)
+		- Amount (Значение)
+- Bump (Фактура поверхности)
+- Displacement (Рельеф поверхности)
+- Alpha (Альфа канал)
+- 
+			
+- 
 
 Base Properties
 	- Base

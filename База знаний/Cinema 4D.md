@@ -21,6 +21,10 @@
 [[Курсы Cinema 4D]]
 [[Словарь]]
 [[Моделирование в Cinema 4D|Моделирование]]
+[[Tags]]
+[[Полезные ссылки]]
+
+
 _____
 [Справочник](https://help.maxon.net/c4d/2023/en-us/Default.htm#html/5425.html?TocPath=_____4)
 
