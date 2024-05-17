@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Shader.md",
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Shader.md",
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Shader.md"
+                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
               }
             }
           },
@@ -275,11 +275,11 @@
       }
     ]
   },
-  "active": "c7b66415a9f55ff8",
+  "active": "ee4a1ed36f58e08e",
   "lastOpenFiles": [
+    "База знаний/Shader.md",
     "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
     "База знаний/Material.md",
-    "База знаний/Shader.md",
     "База знаний/Словарь.md",
     "База знаний/Multi-Pass.md",
     "База знаний/Модели.md",
