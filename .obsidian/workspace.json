@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+                "file": "Я тест.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
+                "file": "Я тест.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
+                "file": "Я тест.md"
               }
             }
           },
@@ -261,8 +261,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "47592d499cced22f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Я тест.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -275,12 +289,13 @@
       }
     ]
   },
-  "active": "ee4a1ed36f58e08e",
+  "active": "47592d499cced22f",
   "lastOpenFiles": [
-    "База знаний/Shader.md",
     "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
-    "База знаний/Material.md",
+    "Я тест.md",
     "База знаний/Словарь.md",
+    "База знаний/Shader.md",
+    "База знаний/Material.md",
     "База знаний/Multi-Pass.md",
     "База знаний/Модели.md",
     "База знаний/Эффекторы.md",
@@ -302,7 +317,6 @@
     "База знаний/Курсы Cinema 4D.md",
     "База знаний/Cinema 4D.md",
     "База знаний/Меню режимов.md",
-    "База знаний/AutoCAD Базовый уровень.md",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
