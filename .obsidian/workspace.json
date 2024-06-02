@@ -11,8 +11,13 @@
             "id": "ee4a1ed36f58e08e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Сварка.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Raughness",
+                "query": "сварк",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,6 +228,7 @@
   },
   "active": "47592d499cced22f",
   "lastOpenFiles": [
+    "Сварка.md",
     "Перенос домена.md",
     "Шаблоны/Шаблоны цветов.md",
     "Шаблоны/Шаблон статьи.md",
@@ -249,7 +255,6 @@
     "Как технический прогресс повлиял на фотографию.md",
     "Как рождается фотография.md",
     "Как использовать глубину резкости.md",
-    "Как изучение фотографии сделать интересным.md",
     "База знаний/Холст_Welcome Chain + Product grid.canvas",
     "База знаний/Холст_План видео.canvas",
     "База знаний/Холст Этапы воронки продаж.canvas",
