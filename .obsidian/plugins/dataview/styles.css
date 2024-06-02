@@ -3,10 +3,6 @@
     line-height: 1.0;
 }
 
-.block-language-dataview {
-    overflow-y: auto;
-}
-
 /*****************/
 /** Table Views **/
 /*****************/
@@ -23,7 +19,7 @@
 }
 
 .table-view-table > tbody > tr:hover {
-    background-color: var(--table-row-background-hover);
+    background-color: var(--text-selection) !important;
 }
 
 .table-view-table > thead > tr > th {

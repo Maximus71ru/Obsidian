@@ -1,24 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Якорь",
-      "path": "Якорь.md"
-    },
-    {
-      "basename": "Сварка",
-      "path": "Сварка.md"
-    },
-    {
       "basename": "Windows",
       "path": "Windows.md"
-    },
-    {
-      "basename": "Словарь",
-      "path": "База знаний/Словарь.md"
-    },
-    {
-      "basename": "Material",
-      "path": "База знаний/Material.md"
     },
     {
       "basename": "Выбор видеокарты",
@@ -35,6 +19,10 @@
     {
       "basename": "Никита Чесноков - Cinema 4D Базовый уровень (2019)",
       "path": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md"
+    },
+    {
+      "basename": "Material",
+      "path": "База знаний/Material.md"
     }
   ],
   "omittedPaths": [],

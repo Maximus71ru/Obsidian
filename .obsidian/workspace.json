@@ -8,46 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d163d542cbde323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Material.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ee4a1ed36f58e08e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50381c0dbcf35713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Multi-Pass.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Я тест.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Я тест.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Я тест.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,46 +201,14 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c7b66415a9f55ff8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Shader.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "07defb144f72c069",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "База знаний/Словарь.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "47592d499cced22f",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Я тест.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -291,32 +223,53 @@
   },
   "active": "47592d499cced22f",
   "lastOpenFiles": [
-    "База знаний/Никита Чесноков - Cinema 4D Базовый уровень (2019).md",
-    "Я тест.md",
-    "База знаний/Словарь.md",
-    "База знаний/Shader.md",
-    "База знаний/Material.md",
-    "База знаний/Multi-Pass.md",
-    "База знаний/Модели.md",
-    "База знаний/Эффекторы.md",
-    "База знаний/Rigging Tags.md",
-    "База знаний/Spline.md",
-    "База знаний/Spline Wrap.md",
-    "База знаний/Интерфейс Cinema 4D.md",
-    "База знаний/Field - Поле.md",
-    "База знаний/Выбор видеокарты.md",
-    "База знаний/Plain.md",
-    "База знаний/Cinema 4D Продвинутый уровень.md",
-    "База знаний/MoGraph.md",
-    "База знаний/Fracture.md",
-    "База знаний/Tags.md",
-    "База знаний/Супер Cinema 4D (2023).md",
-    "База знаний/Help4d.md",
-    "База знаний/Select Menu.md",
-    "База знаний/Полезные ссылки.md",
-    "База знаний/Курсы Cinema 4D.md",
-    "База знаний/Cinema 4D.md",
-    "База знаний/Меню режимов.md",
+    "Перенос домена.md",
+    "Шаблоны/Шаблоны цветов.md",
+    "Шаблоны/Шаблон статьи.md",
+    "Шаблоны/Шаблон ZK.md",
+    "Шаблоны/Фотографы.md",
+    "Шаблоны/Теги бизнес.md",
+    "Шаблоны/План написания статей.md",
+    "Шаблоны/Заметка с линиями.md",
+    "Шаблоны",
+    "Якорь.md",
+    "Экспонометр.md",
+    "Экспозиция - важные выводы.md",
+    "Шаблон записи.md",
+    "Что такое экспозиция.md",
+    "Что такое хорошая фотография.md",
+    "Что такое выдержка.md",
+    "Форматы JPG и RAW.md",
+    "Философия сообщества 'Фотопрактика'.md",
+    "Нужно стремиться создавать только отличные кадры.md",
+    "Настройка страницы сайта.md",
+    "Мотивирующие статьи.md",
+    "Мать всех запросов.md",
+    "Коррекция экспозиции.md",
+    "Как технический прогресс повлиял на фотографию.md",
+    "Как рождается фотография.md",
+    "Как использовать глубину резкости.md",
+    "Как изучение фотографии сделать интересным.md",
+    "База знаний/Холст_Welcome Chain + Product grid.canvas",
+    "База знаний/Холст_План видео.canvas",
+    "База знаний/Холст Этапы воронки продаж.canvas",
+    "База знаний/Холст Схемы видео сценариев.canvas",
+    "База знаний/Холст промт.canvas",
+    "База знаний/Тестовый холст.canvas",
+    "База знаний/Схема, переупаковка контента.canvas",
+    "База знаний/Схема контент стратегия.canvas",
+    "База знаний",
+    "_Исходники/9k9y3zqv.bmp",
+    "_Исходники/zzjmydez.bmp",
+    "_Исходники/wu8mvxku.bmp",
+    "_Исходники/zetqp4st.bmp",
+    "_Исходники/yymnc4g2.bmp",
+    "_Исходники/yfxqhhvd.bmp",
+    "_Исходники/Pasted image 20231101102113.png",
+    "_Исходники/wit2v9m6.bmp",
+    "_Исходники/vc6ljwwz.bmp",
+    "_Исходники/tnfnbjgc.bmp",
+    "_Исходники",
     "Экспозиция.md.terabox.uploading.cfg",
     "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
@@ -324,21 +277,7 @@
     "Шаблоны/Фотографы.md.terabox.uploading.cfg",
     "Шаблоны/Теги бизнес.md.terabox.uploading.cfg",
     "Шаблоны/План написания статей.md.terabox.uploading.cfg",
-    "Шаблоны/Заметка с линиями.md.terabox.uploading.cfg",
-    "Шаблон записи.md.terabox.uploading.cfg",
-    "Что такое хорошая фотография, какие критерии.md.terabox.uploading.cfg",
-    "База знаний/Схема контент стратегия.canvas",
-    "_Исходники/Pasted image 20231101102113.png",
-    "_Исходники/Pasted image 20231031214028.png",
-    "_Исходники/Pasted image 20231031213919.png",
-    "База знаний/Схема, переупаковка контента.canvas",
     "Схема, точки роста каналов дистрибуции.canvas",
-    "База знаний/Холст Этапы воронки продаж.canvas",
-    "База знаний/Холст промт.canvas",
-    "Без названия 1.canvas",
-    "База знаний/Холст_План видео.canvas",
-    "База знаний/Холст Схемы видео сценариев.canvas",
-    "База знаний/Холст_Welcome Chain + Product grid.canvas",
-    "База знаний/Тестовый холст.canvas"
+    "Без названия 1.canvas"
   ]
 }
