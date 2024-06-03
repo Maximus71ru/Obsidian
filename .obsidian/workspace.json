@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6120c625b9da48f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Удалить.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +242,9 @@
   },
   "active": "47592d499cced22f",
   "lastOpenFiles": [
-    "Я_SSD.md",
+    "Удалить.md",
     "Сварка.md",
+    "Я_SSD.md",
     "Перенос домена.md",
     "Шаблоны/Шаблоны цветов.md",
     "Шаблоны/Шаблон статьи.md",
@@ -254,7 +269,6 @@
     "Мать всех запросов.md",
     "Коррекция экспозиции.md",
     "Как технический прогресс повлиял на фотографию.md",
-    "Как рождается фотография.md",
     "База знаний/Холст_Welcome Chain + Product grid.canvas",
     "База знаний/Холст_План видео.canvas",
     "База знаний/Холст Этапы воронки продаж.canvas",
