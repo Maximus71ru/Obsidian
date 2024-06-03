@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6120c625b9da48f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Удалить.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Сварка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Сварка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Сварка.md"
+              }
             }
           },
           {
@@ -240,7 +230,7 @@
       }
     ]
   },
-  "active": "47592d499cced22f",
+  "active": "ee4a1ed36f58e08e",
   "lastOpenFiles": [
     "Удалить.md",
     "Сварка.md",
