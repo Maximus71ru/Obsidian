@@ -4,23 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "4e6c5ddb6cdb4f3e",
+        "id": "580632248f2f3894",
         "type": "tabs",
         "children": [
           {
-            "id": "ee4a1ed36f58e08e",
+            "id": "bb6e4cb4c5a0d0a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сварка.md",
+                "file": "База знаний/Выбор видеокарты.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Выбор видеокарты"
+            }
+          },
+          {
+            "id": "a510fdd605007766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Техподдержка Gigabyte.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Техподдержка Gigabyte"
+            }
+          },
+          {
+            "id": "4f67555518915467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отправка фотографий заказчику.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отправка фотографий заказчику"
+            }
+          },
+          {
+            "id": "588e15a380f9fbdc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -41,7 +86,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -50,13 +97,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сварк",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -64,11 +113,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7f45b70c9c16dfdc",
@@ -80,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -103,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сварка.md",
+                "file": "База знаний/Выбор видеокарты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Выбор видеокарты"
             }
           },
           {
@@ -115,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сварка.md",
+                "file": "База знаний/Выбор видеокарты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +177,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Выбор видеокарты"
             }
           },
           {
@@ -134,7 +190,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -143,8 +201,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сварка.md"
-              }
+                "file": "База знаний/Выбор видеокарты.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Выбор видеокарты"
             }
           },
           {
@@ -152,7 +212,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -160,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -172,7 +236,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           }
         ],
@@ -197,68 +263,37 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "29d0423b001ce692",
-    "type": "floating",
-    "children": [
-      {
-        "id": "257a92c6c2cfcf2a",
-        "type": "window",
-        "children": [
-          {
-            "id": "12e8e97faa410df7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47592d499cced22f",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2568,
-        "y": 12,
-        "width": 1028,
-        "height": 1020,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ee4a1ed36f58e08e",
+  "active": "588e15a380f9fbdc",
   "lastOpenFiles": [
-    "Удалить.md",
-    "Сварка.md",
-    "Я_SSD.md",
-    "Перенос домена.md",
-    "Шаблоны/Шаблоны цветов.md",
+    "Отправка фотографий заказчику.md",
+    "База знаний/Техподдержка Gigabyte.md",
+    "База знаний/Выбор видеокарты.md",
+    "База знаний/Техподдержка Gigabyte (2).md",
+    "База знаний/000_Меню.md",
+    "Шаблоны/Внешняя ссылка.md",
+    "База знаний/IT.md",
+    "База знаний/Teamly.md",
+    "База знаний/Утепление фундамента.md",
+    "База знаний/Ремонт фундамента.md",
+    "База знаний/Отмостка.md",
+    "Без названия 1",
+    "Без названия",
+    "База знаний/Первый.md",
+    "База знаний/Органайзеры.md",
+    "База знаний/Weeek.md",
+    "База знаний/Shtab.md",
+    "База знаний/адрес.md",
+    "База знаний/020_БИЗНЕС.md",
     "Шаблоны/Шаблон статьи.md",
-    "Шаблоны/Шаблон ZK.md",
-    "Шаблоны/Фотографы.md",
-    "Шаблоны/Теги бизнес.md",
-    "Шаблоны/План написания статей.md",
-    "Шаблоны/Заметка с линиями.md",
+    "База знаний/Курсы.md",
+    "База знаний/Покраска на кислотный грунт.md",
+    "База знаний/Алгоритм покраски автомобиля.md",
+    "База знаний/Покраска автомобиля.md",
+    "База знаний/Материалы для покраски автомобиля.md",
+    "База знаний/Абразивный материал.md",
+    "База знаний/Металлочерепица.md",
+    "База знаний/Садоводство.md",
     "Шаблоны",
-    "Якорь.md",
-    "Экспонометр.md",
-    "Экспозиция - важные выводы.md",
-    "Шаблон записи.md",
-    "Что такое экспозиция.md",
-    "Что такое хорошая фотография.md",
-    "Что такое выдержка.md",
-    "Форматы JPG и RAW.md",
-    "Философия сообщества 'Фотопрактика'.md",
-    "Нужно стремиться создавать только отличные кадры.md",
-    "Настройка страницы сайта.md",
-    "Мотивирующие статьи.md",
-    "Мать всех запросов.md",
-    "Коррекция экспозиции.md",
-    "Как технический прогресс повлиял на фотографию.md",
     "База знаний/Холст_Welcome Chain + Product grid.canvas",
     "База знаний/Холст_План видео.canvas",
     "База знаний/Холст Этапы воронки продаж.canvas",
@@ -284,8 +319,6 @@
     "Шаблоны/Шаблон статьи.md.terabox.uploading.cfg",
     "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
     "Шаблоны/Фотографы.md.terabox.uploading.cfg",
-    "Шаблоны/Теги бизнес.md.terabox.uploading.cfg",
-    "Шаблоны/План написания статей.md.terabox.uploading.cfg",
     "Схема, точки роста каналов дистрибуции.canvas",
     "Без названия 1.canvas"
   ]
