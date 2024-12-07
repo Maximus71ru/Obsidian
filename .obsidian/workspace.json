@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Дизайнер и фотограф, как настроить совместную работу.md",
+                "file": "Шаблоны/Шаблоны цветов.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дизайнер и фотограф, как настроить совместную работу"
+              "title": "Шаблоны цветов"
+            }
+          },
+          {
+            "id": "6baffb0fb88d7720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Самостоятельная съемка интерьера.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Самостоятельная съемка интерьера"
+            }
+          },
+          {
+            "id": "937bd4fcbeacd1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблоны/Шаблон статьи для ВК.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шаблон статьи для ВК"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "соцсете",
+                "query": "tag:#cb902aВ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +115,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Дизайнер и фотограф, как настроить совместную работу.md",
+                "file": "База знаний/Контент план для в контакте.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Дизайнер и фотограф, как настроить совместную работу"
+              "title": "Обратные ссылки для Контент план для в контакте"
             }
           },
           {
@@ -164,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Дизайнер и фотограф, как настроить совместную работу.md"
+                "file": "База знаний/Контент план для в контакте.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Дизайнер и фотограф, как настроить совместную работу"
+              "title": "Структура Контент план для в контакте"
             }
           },
           {
@@ -179,12 +211,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "0612d137ed98bef1",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 356.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,7 +241,8 @@
       "audio-recorder:Начать/остановить запись": false,
       "workspaces:Пространства": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "floating": {
@@ -206,15 +250,30 @@
     "type": "floating",
     "children": [
       {
-        "id": "cef205c1b28de720",
+        "id": "b7e8da3341ff656d",
         "type": "window",
         "children": [
           {
-            "id": "397c1cc81c46bd85",
+            "id": "0ecc93f9ebfda80c",
             "type": "tabs",
             "children": [
               {
-                "id": "7b257da326f4a14b",
+                "id": "8f5d9a8c7765598a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "База знаний/Контент план для в контакте.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Контент план для в контакте"
+                }
+              },
+              {
+                "id": "9ac63c6d6844f36b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -228,22 +287,33 @@
                   "title": "Контент план для в контакте"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 374,
-        "y": 4,
-        "width": 969,
-        "height": 1389,
+        "x": 102,
+        "y": 3,
+        "width": 1084,
+        "height": 1374,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "7b257da326f4a14b",
+  "active": "9ac63c6d6844f36b",
   "lastOpenFiles": [
-    "База знаний/Дизайнер и фотограф, как настроить совместную работу.md",
-    "База знаний/Контент план для в контакте.md"
+    "Самостоятельная съемка интерьера.md",
+    "Шаблоны/Шаблон статьи для ВК.md",
+    "База знаний/Контент план для в контакте.md",
+    "Шаблоны/Шаблон ZK.md",
+    "Шаблоны/Шаблоны цветов.md",
+    "База знаний/000_Меню.md",
+    "База знаний/Отмостка.md",
+    "Блокнот.md",
+    "База знаний/002_Префексы.md",
+    "База знаний/Алгоритм дистрибуции.md",
+    "Почему я фотографирую интерьеры.md",
+    "База знаний/Дизайнер и фотограф, как настроить совместную работу.md"
   ]
 }
