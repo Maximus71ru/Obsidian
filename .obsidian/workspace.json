@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "самостоят",
+                "query": "уметь фотографировать",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -278,13 +278,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Почему дизайнеру важно самому уметь фотографировать.md",
+                    "file": "База знаний/Контент план для в контакте.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Почему дизайнеру важно самому уметь фотографировать"
+                  "title": "Контент план для в контакте"
                 }
               }
             ],
