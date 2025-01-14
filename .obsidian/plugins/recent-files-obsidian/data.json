@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Сопряжение и кромка",
+      "path": "База знаний/Сопряжение и кромка.md"
+    },
+    {
+      "basename": "Моделирование",
+      "path": "База знаний/Моделирование.md"
+    },
+    {
+      "basename": "Основы Autocad",
+      "path": "База знаний/Основы Autocad.md"
+    },
+    {
+      "basename": "Курсы Autocad",
+      "path": "База знаний/Курсы Autocad.md"
+    },
+    {
+      "basename": "Журнал тела",
+      "path": "База знаний/Журнал тела.md"
+    },
+    {
       "basename": "Редактирование тела",
       "path": "База знаний/Редактирование тела.md"
+    },
+    {
+      "basename": "Толщина",
+      "path": "База знаний/Толщина.md"
+    },
+    {
+      "basename": "Оболочка",
+      "path": "База знаний/Оболочка.md"
     },
     {
       "basename": "Вычитание",
@@ -11,14 +39,6 @@
     {
       "basename": "Объединить",
       "path": "База знаний/Объединить.md"
-    },
-    {
-      "basename": "Основы Autocad",
-      "path": "База знаний/Основы Autocad.md"
-    },
-    {
-      "basename": "Моделирование",
-      "path": "База знаний/Моделирование.md"
     },
     {
       "basename": "Политело",
@@ -53,10 +73,6 @@
       "path": "Шаблоны/Инструмент Autocad.md"
     },
     {
-      "basename": "Толщина",
-      "path": "База знаний/Толщина.md"
-    },
-    {
       "basename": "Редактирование граней",
       "path": "База знаний/Редактирование граней.md"
     },
@@ -75,10 +91,6 @@
     {
       "basename": "kurs-3d-autocad-modelirovanieAM",
       "path": "База знаний/kurs-3d-autocad-modelirovanieAM.md"
-    },
-    {
-      "basename": "Курсы Autocad",
-      "path": "База знаний/Курсы Autocad.md"
     },
     {
       "basename": "AutoCAD Базовый уровень",
