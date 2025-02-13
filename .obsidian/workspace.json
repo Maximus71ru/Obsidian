@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Основы Autocad.md",
+                "file": "База знаний/Блоки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Основы Autocad"
+              "title": "Блоки"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Печать.md",
+                "file": "Шаблоны/Инструмент Autocad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Печать"
+              "title": "Инструмент Autocad"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "Сечение"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +71,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "гладкий об",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,8 +115,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,21 +234,27 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "74a82ce1eef01b17",
+  "active": "a440a8fa90ba8a14",
   "lastOpenFiles": [
     "База знаний/Основы Autocad.md",
-    "База знаний/Печать.md",
+    "База знаний/Курсы Autocad.md",
+    "База знаний/Моделирование.md",
+    "База знаний/Настройка панели.md",
+    "База знаний/Блоки.md",
+    "База знаний/Группы.md",
+    "База знаний/Видовой экран.md",
+    "База знаний/Листы.md",
+    "Шаблоны/Инструмент Autocad.md",
+    "Шаблон записи.md",
+    "База знаний/000_Меню.md",
     "База знаний/Размеры.md",
     "База знаний/Слои.md",
-    "База знаний/Листы.md",
-    "База знаний/Настройка панели.md",
-    "База знаний/Моделирование.md",
+    "База знаний/Текст.md",
+    "База знаний/Печать.md",
     "База знаний/Сдвиг.md",
     "База знаний/Сеть.md",
     "База знаний/Преобразовать сеть.md",
-    "База знаний/Курсы Autocad.md",
     "База знаний/Поверхность.md",
-    "База знаний/000_Меню.md",
     "База знаний/Секущая плоскость.md",
     "База знаний/Сопряжение и кромка, фаска.md",
     "База знаний/Сопряжение и фаска.md",
@@ -257,12 +262,6 @@
     "База знаний/Редактирование тела.md",
     "База знаний/Толщина.md",
     "База знаний/Оболочка.md",
-    "База знаний/Вычитание.md",
-    "База знаний/Объединить.md",
-    "База знаний/Политело.md",
-    "База знаний/Лофт.md",
-    "База знаний/Вращать.md",
-    "База знаний/Вытягивание.md",
     "Clippings",
     "База знаний/Холст Этапы воронки продаж.canvas",
     "База знаний/Схема контент стратегия.canvas",
