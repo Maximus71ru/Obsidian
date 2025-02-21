@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Блоки.md",
+                "file": "База знаний/Основы Autocad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Блоки"
+              "title": "Основы Autocad"
             }
           },
           {
@@ -43,16 +43,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Сечение.md",
+                "file": "База знаний/Система координат.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Система координат"
+            }
+          },
+          {
+            "id": "c16b6e08e3d39883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Блоки.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сечение"
+              "title": "Блоки"
+            }
+          },
+          {
+            "id": "26c5fd163b008ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Вытягивание.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Вытягивание"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Autocad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +146,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,9 +242,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "3c2229fbac2f35d4",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -234,34 +276,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a440a8fa90ba8a14",
+  "active": "3c44750e7984077e",
   "lastOpenFiles": [
     "База знаний/Основы Autocad.md",
-    "База знаний/Курсы Autocad.md",
-    "База знаний/Моделирование.md",
-    "База знаний/Настройка панели.md",
+    "База знаний/Редактирование.md",
     "База знаний/Блоки.md",
-    "База знаний/Группы.md",
-    "База знаний/Видовой экран.md",
-    "База знаний/Листы.md",
+    "База знаний/AutoCAD Базовый уровень.md",
     "Шаблоны/Инструмент Autocad.md",
-    "Шаблон записи.md",
-    "База знаний/000_Меню.md",
+    "База знаний/kurs-3d-autocad-modelirovanieAM.md",
+    "База знаний/Система координат.md",
+    "База знаний/Сечение.md",
+    "База знаний/Вытягивание.md",
+    "База знаний/Выдавить.md",
+    "База знаний/Пользовательские виды.md",
+    "База знаний/Листы.md",
+    "База знаний/Видовой экран.md",
+    "База знаний/Adobe Photoshop.md",
+    "База знаний/Настройка цвета.md",
+    "База знаний/Вопросы Autocad.md",
+    "База знаний/Мультивыноски.md",
     "База знаний/Размеры.md",
-    "База знаний/Слои.md",
     "База знаний/Текст.md",
-    "База знаний/Печать.md",
-    "База знаний/Сдвиг.md",
-    "База знаний/Сеть.md",
-    "База знаний/Преобразовать сеть.md",
-    "База знаний/Поверхность.md",
-    "База знаний/Секущая плоскость.md",
+    "База знаний/Шаблон.md",
+    "База знаний/Слои.md",
+    "База знаний/Палитра свойств.md",
+    "База знаний/Настройка панели.md",
     "База знаний/Сопряжение и кромка, фаска.md",
-    "База знаний/Сопряжение и фаска.md",
-    "База знаний/Журнал тела.md",
     "База знаний/Редактирование тела.md",
-    "База знаний/Толщина.md",
-    "База знаний/Оболочка.md",
+    "База знаний/Моделирование.md",
     "Clippings",
     "База знаний/Холст Этапы воронки продаж.canvas",
     "База знаний/Схема контент стратегия.canvas",
