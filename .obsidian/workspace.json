@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Блоки.md",
+                "file": "База знаний/Шаблон.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Блоки"
+              "title": "Шаблон"
             }
           },
           {
@@ -276,11 +276,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3c44750e7984077e",
+  "active": "c16b6e08e3d39883",
   "lastOpenFiles": [
     "База знаний/Основы Autocad.md",
-    "База знаний/Редактирование.md",
     "База знаний/Блоки.md",
+    "База знаний/Редактирование.md",
     "База знаний/AutoCAD Базовый уровень.md",
     "Шаблоны/Инструмент Autocad.md",
     "База знаний/kurs-3d-autocad-modelirovanieAM.md",
