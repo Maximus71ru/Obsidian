@@ -4,170 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "7c91e5a43e9ec90f",
+        "id": "e3ad07674ce0c48c",
         "type": "tabs",
         "children": [
           {
-            "id": "a440a8fa90ba8a14",
+            "id": "1372992cf494e88d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Без названия.base",
+                "viewName": "Таблица"
+              },
+              "icon": "lucide-table",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "004ebd2c4331983f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Основы Autocad.md",
+                "file": "База знаний/020_БИЗНЕС.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Основы Autocad"
+              "title": "020_БИЗНЕС"
             }
           },
           {
-            "id": "74a82ce1eef01b17",
+            "id": "286aec0c5c239e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Инструмент Autocad.md",
+                "file": "База знаний/Выбор видеокарты.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Инструмент Autocad"
+              "title": "Выбор видеокарты"
             }
           },
           {
-            "id": "31e673ea82d55f8c",
+            "id": "3bf2190941f7942f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Без названия.base",
+                "viewName": "Таблица"
+              },
+              "icon": "lucide-table",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "040d4e9acc5603f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Система координат.md",
+                "file": "База знаний/Мотоблок.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Система координат"
-            }
-          },
-          {
-            "id": "c16b6e08e3d39883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows"
-            }
-          },
-          {
-            "id": "26c5fd163b008ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Вытягивание.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Вытягивание"
-            }
-          },
-          {
-            "id": "09d903206d322c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура раздела Садоводство.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Структура раздела Садоводство"
-            }
-          },
-          {
-            "id": "39d98bd3f3ba947b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сборка станка холодной ковки.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Сборка станка холодной ковки"
-            }
-          },
-          {
-            "id": "ff6d160cd8744ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Efco 140.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Efco 140"
-            }
-          },
-          {
-            "id": "f92baa841dcad19f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Колодец.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Колодец"
-            }
-          },
-          {
-            "id": "7d0cb39be3893bb4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.8.10"
-            }
-          },
-          {
-            "id": "923105042f0ed890",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.10"
+              "title": "Мотоблок"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Техника",
+                "query": "Мотобло",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -231,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Почему умение фотографировать необходимо каждому.md",
+                "file": "База знаний/Мотоблок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Почему умение фотографировать необходимо каждому"
+              "title": "Обратные ссылки для Мотоблок"
             }
           },
           {
@@ -270,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Контент план для в контакте.md",
+                "file": "Стратегия продвижения группы ВК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Контент план для в контакте"
+              "title": "Исходящие ссылки из Стратегия продвижения группы ВК"
             }
           },
           {
@@ -285,7 +197,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -328,13 +242,13 @@
             }
           },
           {
-            "id": "3c2229fbac2f35d4",
+            "id": "19dd55df9e132f0a",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -342,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,39 +269,42 @@
       "command-palette:Открыть палитру команд": false,
       "audio-recorder:Начать/остановить запись": false,
       "workspaces:Пространства": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "923105042f0ed890",
+  "active": "040d4e9acc5603f8",
   "lastOpenFiles": [
-    "Колодец.md",
-    "База знаний/Efco 140.md",
-    "База знаний/Бензопилы.md",
-    "База знаний/Oleo Mac 56.md",
-    "База знаний/Регулировка карбюратора бензопилы.md",
-    "Мед справка 003-В-У.md",
     "База знаний/Техника.md",
-    "База знаний/Расконсервация бензопилы.md",
-    "База знаний/Консервация бензопилы.md",
-    "База знаний/Натяжка цепи бензопилы.md",
+    "База знаний/Газонокосилка.md",
+    "База знаний/Мотоблок.md",
+    "База знаний/Вовлечение в воронку.md",
+    "База знаний/Выбор видеокарты.md",
+    "База знаний/020_БИЗНЕС.md",
+    "Без названия.base",
+    "Базы данных/База данных Техника.base",
+    "Базы данных/База данных _2.md",
+    "Базы данных/Тех обслуживание.md",
+    "Базы данных/Папка базы данных.md",
     "База знаний/Denzel DS-5218.md",
-    "База знаний/000_Меню.md",
-    "База знаний/Авто.md",
-    "База знаний/Подкормка томатов.md",
-    "База знаний/Томаты.md",
-    "База знаний/Обработка томатов.md",
-    "База знаний/Садоводство.md",
-    "Банк.md",
+    "База знаний/Efco 140.md",
+    "База знаний/Абразивный материал.md",
+    "База знаний/030_ТЕХНИКА.md",
+    "База знаний/СВАРКА.md",
+    "База знаний/Софт.md",
+    "База знаний/Соцсеть интерьерного фотографа.md",
+    "База знаний/Коррекция экспозиции.md",
+    "Сварка.md",
     "Сборка станка холодной ковки.md",
-    "Структура раздела Садоводство.md",
-    "Windows.md",
-    "База знаний/Слои.md",
-    "База знаний/Основы Autocad.md",
-    "База знаний/Редактирование.md",
-    "База знаний/Шаблон.md",
-    "База знаний/Текст.md",
+    "База знаний/Мать всех запросов.md",
+    "База знаний/Масло Ford Formula F 5W30.md",
+    "База знаний/Диафрагма.md",
+    "База знаний/Как выбрать режим.md",
+    "База знаний/Инструменты фотографа, его арсенал.md",
+    "База знаний/Дополнения для Elementor.md",
+    "Запросы для поиска фотографий.md",
+    "Базы данных",
+    "Ford Formula S",
     "Clippings",
     "База знаний/Холст Этапы воронки продаж.canvas",
     "База знаний/Схема контент стратегия.canvas",

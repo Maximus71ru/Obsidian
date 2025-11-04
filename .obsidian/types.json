@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "published": "text"
+    "published": "text",
+    "Год": "date",
+    "Моточасы": "number",
+    "Масло": "text"
   }
 }
